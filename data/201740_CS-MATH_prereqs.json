@@ -191,49 +191,49 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS010 ",
+          "course": "CS010",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "MATH007A ",
+          "course": "MATH007A",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH008B ",
+          "course": "MATH008B",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009A ",
+          "course": "MATH009A",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HA ",
+          "course": "MATH09HA",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS010V ",
+          "course": "CS010V",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH007B ",
+          "course": "MATH007B",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009B ",
+          "course": "MATH009B",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HB ",
+          "course": "MATH09HB",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -407,7 +407,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS014 ",
+          "course": "CS014",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -461,29 +461,29 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS010 ",
+          "course": "CS010",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS011 ",
+          "course": "CS011",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009C ",
+          "course": "MATH009C",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "MATH011 ",
+          "course": "MATH011",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HC ",
+          "course": "MATH09HC",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -536,7 +536,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS061 ",
+          "course": "CS061",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -579,24 +579,24 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS120B ",
+          "course": "CS120B",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "CS012 ",
+          "course": "CS012",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS013 ",
+          "course": "CS013",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "EE120B ",
+          "course": "EE120B",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -649,12 +649,12 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH031 ",
+          "course": "MATH031",
           "minGrade": "D-",
           "disallowConcurrent": false
         }
@@ -708,24 +708,24 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS014 ",
+          "course": "CS014",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS111 ",
+          "course": "CS111",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009C ",
+          "course": "MATH009C",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "MATH09HC ",
+          "course": "MATH09HC",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -778,17 +778,17 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS061 ",
+          "course": "CS061",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS111 ",
+          "course": "CS111",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -843,12 +843,12 @@
       "and": [],
       "or": [
         {
-          "course": "EE120A ",
+          "course": "EE120A",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS120A ",
+          "course": "CS120A",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -890,19 +890,19 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS161 ",
+          "course": "CS161",
           "minGrade": "D-",
           "disallowConcurrent": false
         }
       ],
       "or": [
         {
-          "course": "EE120A ",
+          "course": "EE120A",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS120A ",
+          "course": "CS120A",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -955,17 +955,17 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS111 ",
+          "course": "CS111",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS153 ",
+          "course": "CS153",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1019,12 +1019,12 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS141 ",
+          "course": "CS141",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS153 ",
+          "course": "CS153",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1078,12 +1078,12 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS111 ",
+          "course": "CS111",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1137,12 +1137,12 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS111 ",
+          "course": "CS111",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1196,19 +1196,19 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH010A ",
+          "course": "MATH010A",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "MATH031 ",
+          "course": "MATH031",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1261,7 +1261,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS100 ",
+          "course": "CS100",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1315,7 +1315,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS153 ",
+          "course": "CS153",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1369,7 +1369,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS161 ",
+          "course": "CS161",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -1648,12 +1648,12 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS141 ",
+          "course": "CS141",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS166 ",
+          "course": "CS166",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -2014,7 +2014,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "MATH006A ",
+          "course": "MATH006A",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -2201,22 +2201,22 @@
       "and": [],
       "or": [
         {
-          "course": "MATH007A ",
+          "course": "MATH007A",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH008B ",
+          "course": "MATH008B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009A ",
+          "course": "MATH009A",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HA ",
+          "course": "MATH09HA",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -2280,12 +2280,12 @@
       "and": [],
       "or": [
         {
-          "course": "MATH009B ",
+          "course": "MATH009B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HB ",
+          "course": "MATH09HB",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -2328,17 +2328,17 @@
       "and": [],
       "or": [
         {
-          "course": "MATH007B ",
+          "course": "MATH007B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009B ",
+          "course": "MATH009B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HB ",
+          "course": "MATH09HB",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -2401,7 +2401,7 @@
     "prereqs": {
       "and": [
         {
-          "course": "MATH010A ",
+          "course": "MATH010A",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -2444,49 +2444,49 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS010 ",
+          "course": "CS010",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "MATH007A ",
+          "course": "MATH007A",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH008B ",
+          "course": "MATH008B",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009A ",
+          "course": "MATH009A",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HA ",
+          "course": "MATH09HA",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "CS010V ",
+          "course": "CS010V",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH007B ",
+          "course": "MATH007B",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009B ",
+          "course": "MATH009B",
           "minGrade": "D-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HB ",
+          "course": "MATH09HB",
           "minGrade": "D-",
           "disallowConcurrent": true
         }
@@ -2561,44 +2561,44 @@
     "prereqs": {
       "and": [
         {
-          "course": "CS010 ",
+          "course": "CS010",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
       ],
       "or": [
         {
-          "course": "MATH007A ",
+          "course": "MATH007A",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH008B ",
+          "course": "MATH008B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009A ",
+          "course": "MATH009A",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HA ",
+          "course": "MATH09HA",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH007B ",
+          "course": "MATH007B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009B ",
+          "course": "MATH009B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HB ",
+          "course": "MATH09HB",
           "minGrade": "C-",
           "disallowConcurrent": true
         }
@@ -2641,17 +2641,17 @@
       "and": [],
       "or": [
         {
-          "course": "MATH007B ",
+          "course": "MATH007B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH009B ",
+          "course": "MATH009B",
           "minGrade": "C-",
           "disallowConcurrent": true
         },
         {
-          "course": "MATH09HB ",
+          "course": "MATH09HB",
           "minGrade": "C-",
           "disallowConcurrent": true
         }

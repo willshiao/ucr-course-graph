@@ -73,7 +73,7 @@ async function getPrerequisites(crn, subjects) {
                         || { code: 'UNKNOWN' }).code;
       const courseCode = subMatch[2];
       const prereq = {
-        course: subCode + courseCode,
+        course: (subCode + courseCode).trim(),
         minGrade: match[2],
         disallowConcurrent: match[3].includes('not'),
       };
