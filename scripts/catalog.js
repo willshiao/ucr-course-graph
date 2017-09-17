@@ -1,11 +1,10 @@
 'use strict';
 
-const _ = require('lodash');
 const config = require('config');
 const Promise = require('bluebird');
 const fs = Promise.promisifyAll(require('fs'));
-const path = require('path');
 
+const fileHelper = require('./lib/fileHelper');
 const authHandler = require('./lib/authHandler');
 const rp = require('./lib/request');
 
@@ -49,12 +48,10 @@ async function getCatalog(j) {
 }
 
 async function main() {
-  const subjects = config.get('catalog.subjects').split(',').join('-');
-  const filename = `${config.get('catalog.term')}_${subjects}_catalog.json`;
-  const savePath = path.join(config.get('dataDir'), filename);
+  const filename = fileHelper.getCatalogPath();
   const catalog = await getCatalog();
 
-  await fs.writeFileAsync(savePath, JSON.stringify(catalog, null, 2));
+  await fs.writeFileAsync(filename, JSON.stringify(catalog, null, 2));
 }
 
 
