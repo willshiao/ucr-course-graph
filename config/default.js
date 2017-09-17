@@ -4,7 +4,7 @@ module.exports = {
   dataDir: './data',
 
   auth: {
-    type: 'cookie', // cookie or credentials
+    type: 'cookie', // cookie or credentials, credentials not yet implemented
     cookies: [
       {
         key: 'JSESSIONID',
@@ -19,6 +19,7 @@ module.exports = {
         domain: 'registrationssb.ucr.edu',
       },
     ],
+    cookieDomain: 'https://registrationssb.ucr.edu',
   },
   request: {
     default: { // Default settings, passed to request library

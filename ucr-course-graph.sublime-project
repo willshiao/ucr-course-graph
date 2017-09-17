@@ -1,9 +1,10 @@
 {
 	"folders":
 	[
-		{ "path": "./config" },
-		{ "path": "./data" },
-		{ "path": "./scripts" },
-		{ "path": "." },
+		{ "path": "config" },
+		{ "path": "data" },
+		{ "path": "scripts" },
+		{ "path": "scripts/lib" },
+		{ "path": "." }
 	]
 }
