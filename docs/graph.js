@@ -25,7 +25,7 @@ function onData(catalog) {
       label: `${course.subjectCourse}: ${course.courseTitle}`,
       x: Math.random(),
       y: Math.random(),
-      size: Math.random(),
+      size: 1,
       color: '#666',
     });
     if(!course.prereqs || !course.prereqs.and) return true;
