@@ -2,6 +2,7 @@
 
 module.exports = {
   dataDir: './data',
+  subjectsFile: './data/subjects.json',
 
   auth: {
     type: 'cookie', // cookie or credentials, credentials not yet implemented
@@ -23,6 +24,10 @@ module.exports = {
   },
 
   catalog: {
+    urls: {
+      search: 'https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/searchResults/searchResults',
+      prereqs: 'https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/searchResults/getSectionPrerequisites',
+    },
     term: 201740,
     subjects: 'CS,MATH', // Comma-seperated. Can be blank.
   },

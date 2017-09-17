@@ -13,7 +13,7 @@ async function getCatalog(j) {
   const jar = j || await authHandler.getJar();
 
   const options = {
-    uri: 'https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/searchResults/searchResults',
+    uri: config.get('catalog.urls.search'),
     qs: {
       txt_term: config.get('catalog.term'),
       txt_subject: config.get('catalog.subjects'),
