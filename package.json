@@ -1,0 +1,27 @@
+{
+  "name": "ucr-course-graph",
+  "version": "1.0.0",
+  "description": "A dependency graph for UCR courses.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willshiao/ucr-course-graph.git"
+  },
+  "author": {
+    "name": "William Shiao",
+    "email": "willshiao@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willshiao/ucr-course-graph/issues"
+  },
+  "homepage": "https://github.com/willshiao/ucr-course-graph#readme",
+  "devDependencies": {
+    "eslint": "^4.7.0",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
