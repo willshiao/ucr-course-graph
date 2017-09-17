@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "getCatalog": "node scripts/catalog.js"
+    "getCatalog": "node scripts/catalog.js",
+    "getPrerequisites": "node scripts/prerequisites.js"
   },
   "repository": {
     "type": "git",
