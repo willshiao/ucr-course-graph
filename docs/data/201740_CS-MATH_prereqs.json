@@ -1,0 +1,2661 @@
+[
+  {
+    "id": 354315,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23178",
+    "partOfTerm": "1",
+    "courseNumber": "005",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "002",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO COMPUTER PROGRAMMING",
+    "creditHours": 4,
+    "maximumEnrollment": 125,
+    "enrollment": 125,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS005",
+    "faculty": [],
+    "prereqs": {}
+  },
+  {
+    "id": 346163,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "12996",
+    "partOfTerm": "1",
+    "courseNumber": "006",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "EFFECTIVE USE OF THE WORLD WIDE WEB",
+    "creditHours": 4,
+    "maximumEnrollment": 120,
+    "enrollment": 120,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS006",
+    "faculty": [],
+    "prereqs": {}
+  },
+  {
+    "id": 346167,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13000",
+    "partOfTerm": "1",
+    "courseNumber": "008",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO COMPUTING",
+    "creditHours": 4,
+    "maximumEnrollment": 270,
+    "enrollment": 270,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS008",
+    "faculty": [
+      {
+        "bannerId": "860302039",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13000",
+        "displayName": "Gustafson, Toby",
+        "emailAddress": "toby.gustafson@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 346188,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13021",
+    "partOfTerm": "1",
+    "courseNumber": "010",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING I",
+    "creditHours": 4,
+    "maximumEnrollment": 90,
+    "enrollment": 83,
+    "seatsAvailable": 7,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS010",
+    "faculty": [
+      {
+        "bannerId": "860063294",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13021",
+        "displayName": "Miller, Kristen",
+        "emailAddress": "kris.miller@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 354334,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23198",
+    "partOfTerm": "1",
+    "courseNumber": "011",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
+    "creditHours": 4,
+    "maximumEnrollment": 130,
+    "enrollment": 94,
+    "seatsAvailable": 36,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "XY",
+    "crossListCapacity": 130,
+    "crossListCount": 127,
+    "crossListAvailable": 3,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS011",
+    "faculty": [],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS010",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "MATH007A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH008B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HA",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS010V",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH007B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HB",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346201,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13040",
+    "partOfTerm": "1",
+    "courseNumber": "012",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING II",
+    "creditHours": 4,
+    "maximumEnrollment": 90,
+    "enrollment": 90,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS012",
+    "faculty": [
+      {
+        "bannerId": "860063294",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13040",
+        "displayName": "Miller, Kristen",
+        "emailAddress": "kris.miller@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 354352,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23212",
+    "partOfTerm": "1",
+    "courseNumber": "014",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS",
+    "creditHours": 4,
+    "maximumEnrollment": 120,
+    "enrollment": 92,
+    "seatsAvailable": 28,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS014",
+    "faculty": [
+      {
+        "bannerId": "861315165",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23212",
+        "displayName": "Eldawy, Ahmed",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 346205,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13048",
+    "partOfTerm": "1",
+    "courseNumber": "061",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "MACHINE ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
+    "creditHours": 4,
+    "maximumEnrollment": 90,
+    "enrollment": 89,
+    "seatsAvailable": 1,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS061",
+    "faculty": [
+      {
+        "bannerId": "861251018",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13048",
+        "displayName": "Linard, Brian",
+        "emailAddress": "brian.linard@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 346212,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13055",
+    "partOfTerm": "1",
+    "courseNumber": "100",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "SOFTWARE CONSTRUCTION",
+    "creditHours": 4,
+    "maximumEnrollment": 98,
+    "enrollment": 98,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS100",
+    "faculty": [],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS014",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 346216,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13059",
+    "partOfTerm": "1",
+    "courseNumber": "111",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DISCRETE STRUCTURES",
+    "creditHours": 4,
+    "maximumEnrollment": 98,
+    "enrollment": 98,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS111",
+    "faculty": [
+      {
+        "bannerId": "860034152",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13059",
+        "displayName": "Chrobak, Marek",
+        "emailAddress": "marek.chrobak@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS010",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS011",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009C",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "MATH011",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HC",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346220,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13063",
+    "partOfTerm": "1",
+    "courseNumber": "120A",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "LOGIC DESIGN",
+    "creditHours": 5,
+    "maximumEnrollment": 120,
+    "enrollment": 39,
+    "seatsAvailable": 81,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "DB",
+    "crossListCapacity": 120,
+    "crossListCount": 62,
+    "crossListAvailable": 58,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS120A",
+    "faculty": [
+      {
+        "bannerId": "861250789",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13063",
+        "displayName": "Tan, Xiang-Dong",
+        "emailAddress": "sheldon.tan@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS061",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 346226,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13070",
+    "partOfTerm": "1",
+    "courseNumber": "122A",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTERMEDIATE EMBEDDED AND REAL-TIME SYSTEMS",
+    "creditHours": 5,
+    "maximumEnrollment": 78,
+    "enrollment": 78,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS122A",
+    "faculty": [],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS120B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "CS012",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS013",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "EE120B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346229,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13074",
+    "partOfTerm": "1",
+    "courseNumber": "130",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "COMPUTER GRAPHICS",
+    "creditHours": 4,
+    "maximumEnrollment": 70,
+    "enrollment": 51,
+    "seatsAvailable": 19,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS130",
+    "faculty": [
+      {
+        "bannerId": "861251500",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13074",
+        "displayName": "Shinar, Tamar",
+        "emailAddress": "tamar.shinar@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS100",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH031",
+          "minGrade": "D-",
+          "disallowConcurrent": false
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 346232,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13077",
+    "partOfTerm": "1",
+    "courseNumber": "141",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTERMEDIATE DATA STRUCTURES AND ALGORITHMS",
+    "creditHours": 4,
+    "maximumEnrollment": 75,
+    "enrollment": 75,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS141",
+    "faculty": [
+      {
+        "bannerId": "861252074",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13077",
+        "displayName": "Lonardi, Stefano",
+        "emailAddress": "stefano.lonardi@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS014",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS111",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009C",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "MATH09HC",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 352278,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "20882",
+    "partOfTerm": "1",
+    "courseNumber": "153",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DESIGN OF OPERATING SYSTEMS",
+    "creditHours": 4,
+    "maximumEnrollment": 78,
+    "enrollment": 78,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS153",
+    "faculty": [
+      {
+        "bannerId": "861250902",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20882",
+        "displayName": "Abu-Ghazaleh, Nael",
+        "emailAddress": "nael.abughazaleh@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS061",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS100",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS111",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 346236,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13082",
+    "partOfTerm": "1",
+    "courseNumber": "161",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+    "creditHours": 4,
+    "maximumEnrollment": 40,
+    "enrollment": 40,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS161",
+    "faculty": [
+      {
+        "bannerId": "861252186",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13082",
+        "displayName": "Chen, Zizhong",
+        "emailAddress": "zizhong.chen@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [],
+      "or": [
+        {
+          "course": "EE120A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS120A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346238,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13085",
+    "partOfTerm": "1",
+    "courseNumber": "161L",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "LABORATORY IN DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+    "creditHours": 2,
+    "maximumEnrollment": 35,
+    "enrollment": 6,
+    "seatsAvailable": 29,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS161L",
+    "faculty": [],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS161",
+          "minGrade": "D-",
+          "disallowConcurrent": false
+        }
+      ],
+      "or": [
+        {
+          "course": "EE120A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS120A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346240,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13088",
+    "partOfTerm": "1",
+    "courseNumber": "164",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "COMPUTER NETWORKS",
+    "creditHours": 4,
+    "maximumEnrollment": 51,
+    "enrollment": 46,
+    "seatsAvailable": 5,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS164",
+    "faculty": [
+      {
+        "bannerId": "861250839",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13088",
+        "displayName": "Ramakrishnan, Kadangode",
+        "emailAddress": "kadangode.ramakrishnan@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS100",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS111",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS153",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 346243,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13091",
+    "partOfTerm": "1",
+    "courseNumber": "165",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "COMPUTER SECURITY",
+    "creditHours": 4,
+    "maximumEnrollment": 70,
+    "enrollment": 62,
+    "seatsAvailable": 8,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS165",
+    "faculty": [
+      {
+        "bannerId": "862001010",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13091",
+        "displayName": "Song, Chengyu",
+        "emailAddress": "chengyu.song@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS141",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS153",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 352300,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "20919",
+    "partOfTerm": "1",
+    "courseNumber": "166",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DATABASE MANAGEMENT SYSTEMS",
+    "creditHours": 4,
+    "maximumEnrollment": 63,
+    "enrollment": 63,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS166",
+    "faculty": [
+      {
+        "bannerId": "861251471",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20919",
+        "displayName": "Tsotras, Vassilis",
+        "emailAddress": "vassilis.tsotras@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS100",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS111",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 346246,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13095",
+    "partOfTerm": "1",
+    "courseNumber": "170",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+    "creditHours": 4,
+    "maximumEnrollment": 80,
+    "enrollment": 80,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS170",
+    "faculty": [
+      {
+        "bannerId": "861252404",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13095",
+        "displayName": "Keogh, Eamonn",
+        "emailAddress": "eamonn.keogh@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS100",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS111",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 354357,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23217",
+    "partOfTerm": "1",
+    "courseNumber": "171",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO MACHINE LEARNING AND DATA MINING",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "enrollment": 60,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS171",
+    "faculty": [
+      {
+        "bannerId": "861252578",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23217",
+        "displayName": "Shelton, Christian",
+        "emailAddress": "christian.shelton@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS100",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH010A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "MATH031",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346251,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13102",
+    "partOfTerm": "1",
+    "courseNumber": "180",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "creditHours": 4,
+    "maximumEnrollment": 70,
+    "enrollment": 70,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS180",
+    "faculty": [
+      {
+        "bannerId": "861255061",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13102",
+        "displayName": "Zhao, Zhijia",
+        "emailAddress": "zhijia.zhao@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS100",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 355113,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23940",
+    "partOfTerm": "1",
+    "courseNumber": "202",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ADVANCED OPERATING SYSTEMS",
+    "creditHours": 4,
+    "maximumEnrollment": 50,
+    "enrollment": 21,
+    "seatsAvailable": 29,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS202",
+    "faculty": [
+      {
+        "bannerId": "861315184",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23940",
+        "displayName": "Yin, Heng",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS153",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 355135,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23962",
+    "partOfTerm": "1",
+    "courseNumber": "203",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ADVANCED COMPUTER ARCHITECTURE",
+    "creditHours": 4,
+    "maximumEnrollment": 50,
+    "enrollment": 30,
+    "seatsAvailable": 20,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS203",
+    "faculty": [
+      {
+        "bannerId": "861251578",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23962",
+        "displayName": "Najjar, Walid",
+        "emailAddress": "walid.najjar@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS161",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 355139,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23966",
+    "partOfTerm": "1",
+    "courseNumber": "204",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ADVANCED COMPUTER NETWORKS",
+    "creditHours": 4,
+    "maximumEnrollment": 36,
+    "enrollment": 4,
+    "seatsAvailable": 32,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS204",
+    "faculty": [
+      {
+        "bannerId": "861250900",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23966",
+        "displayName": "Molle, Mart",
+        "emailAddress": "mart.molle@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 352912,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "22108",
+    "partOfTerm": "1",
+    "courseNumber": "211",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "HIGH PERFORMANCE COMPUTING",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "enrollment": 39,
+    "seatsAvailable": 21,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS211",
+    "faculty": [
+      {
+        "bannerId": "861252186",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "22108",
+        "displayName": "Chen, Zizhong",
+        "emailAddress": "zizhong.chen@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 367449,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24972",
+    "partOfTerm": "1",
+    "courseNumber": "217",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "GPU ARCHITECTURE AND PARALLEL PROGRAMMING",
+    "creditHours": 4,
+    "maximumEnrollment": 55,
+    "enrollment": 32,
+    "seatsAvailable": 23,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "ZH",
+    "crossListCapacity": 45,
+    "crossListCount": 45,
+    "crossListAvailable": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "CS217",
+    "faculty": [
+      {
+        "bannerId": "860810123",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "24972",
+        "displayName": "Wong, Daniel",
+        "emailAddress": "daniel.wong@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 346258,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "13111",
+    "partOfTerm": "1",
+    "courseNumber": "218",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DESIGN AND ANALYSIS OF ALGORITHMS",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "enrollment": 19,
+    "seatsAvailable": 41,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS218",
+    "faculty": [
+      {
+        "bannerId": "861252240",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "13111",
+        "displayName": "Young, Neal",
+        "emailAddress": "neal.young@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 355143,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23970",
+    "partOfTerm": "1",
+    "courseNumber": "220",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "SYNTHESIS OF DIGITAL SYSTEMS",
+    "creditHours": 4,
+    "maximumEnrollment": 50,
+    "enrollment": 8,
+    "seatsAvailable": 42,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS220",
+    "faculty": [
+      {
+        "bannerId": "861252446",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23970",
+        "displayName": "Brisk, Philip",
+        "emailAddress": "philip.brisk@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 353141,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "22473",
+    "partOfTerm": "1",
+    "courseNumber": "235",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DATA MINING TECHNIQUES",
+    "creditHours": 4,
+    "maximumEnrollment": 52,
+    "enrollment": 50,
+    "seatsAvailable": 2,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS235",
+    "faculty": [
+      {
+        "bannerId": "862001309",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "22473",
+        "displayName": "Papalexakis, Evangelos",
+        "emailAddress": "evangelos.papalexakis@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS141",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS166",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 355157,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23984",
+    "partOfTerm": "1",
+    "courseNumber": "236",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DATABASE MANAGEMENT SYSTEMS",
+    "creditHours": 4,
+    "maximumEnrollment": 53,
+    "enrollment": 11,
+    "seatsAvailable": 42,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS236",
+    "faculty": [
+      {
+        "bannerId": "N61251021",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23984",
+        "displayName": "Ravishankar, Chinya",
+        "emailAddress": "chinya.ravishankar@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 352111,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "20640",
+    "partOfTerm": "1",
+    "courseNumber": "240",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "NETWORK ROUTING",
+    "creditHours": 4,
+    "maximumEnrollment": 36,
+    "enrollment": 18,
+    "seatsAvailable": 18,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS240",
+    "faculty": [
+      {
+        "bannerId": "860369879",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20640",
+        "displayName": "Faloutsos, Michalis",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 355178,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24005",
+    "partOfTerm": "1",
+    "courseNumber": "257",
+    "subject": "CS",
+    "subjectDescription": "Computer Science",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "WIRELESS NETWORKS AND MOBILE COMPUTING",
+    "creditHours": 4,
+    "maximumEnrollment": 35,
+    "enrollment": 7,
+    "seatsAvailable": 28,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "CS257",
+    "faculty": [
+      {
+        "bannerId": "861251253",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "24005",
+        "displayName": "Krishnamurthy, Srikanth",
+        "emailAddress": "srikanth.krishnamurthy@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {}
+  },
+  {
+    "id": 348858,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16340",
+    "partOfTerm": "1",
+    "courseNumber": "004",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO COLLEGE MATHEMATICS FOR BUSINESS AND THE SOCIAL SCIENCES",
+    "creditHours": 5,
+    "maximumEnrollment": 212,
+    "enrollment": 208,
+    "seatsAvailable": 4,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH004",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16340",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16340",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 348874,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16360",
+    "partOfTerm": "1",
+    "courseNumber": "005",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "PRECALCULUS",
+    "creditHours": 5,
+    "maximumEnrollment": 250,
+    "enrollment": 239,
+    "seatsAvailable": 11,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH005",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16360",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16360",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 351984,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "20458",
+    "partOfTerm": "1",
+    "courseNumber": "006A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "010",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+    "creditHours": 4,
+    "maximumEnrollment": 150,
+    "enrollment": 145,
+    "seatsAvailable": 5,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L2",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH006A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20458",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20458",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 351989,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "20463",
+    "partOfTerm": "1",
+    "courseNumber": "006B",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": " INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+    "creditHours": 4,
+    "maximumEnrollment": 150,
+    "enrollment": 121,
+    "seatsAvailable": 29,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH006B",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20463",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "20463",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "MATH006A",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 354841,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23674",
+    "partOfTerm": "1",
+    "courseNumber": "007A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "CALCULUS FOR LIFE SCIENCES",
+    "creditHours": 4,
+    "maximumEnrollment": 120,
+    "enrollment": 88,
+    "seatsAvailable": 32,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH007A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23674",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 354846,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23679",
+    "partOfTerm": "1",
+    "courseNumber": "007B",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "CALCULUS FOR LIFE SCIENCES",
+    "creditHours": 4,
+    "maximumEnrollment": 125,
+    "enrollment": 97,
+    "seatsAvailable": 28,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH007B",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23679",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 354471,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23318",
+    "partOfTerm": "1",
+    "courseNumber": "009A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "FIRST-YEAR CALCULUS",
+    "creditHours": 4,
+    "maximumEnrollment": 120,
+    "enrollment": 105,
+    "seatsAvailable": 15,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH009A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23318",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ]
+  },
+  {
+    "id": 354492,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23339",
+    "partOfTerm": "1",
+    "courseNumber": "009B",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "FIRST-YEAR CALCULUS",
+    "creditHours": 4,
+    "maximumEnrollment": 126,
+    "enrollment": 121,
+    "seatsAvailable": 5,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH009B",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23339",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [],
+      "or": [
+        {
+          "course": "MATH007A",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH008B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009A",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HA",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 348889,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16483",
+    "partOfTerm": "1",
+    "courseNumber": "009C",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "FIRST-YEAR CALCULUS",
+    "creditHours": 4,
+    "maximumEnrollment": 125,
+    "enrollment": 123,
+    "seatsAvailable": 2,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH009C",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16483",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16483",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [],
+      "or": [
+        {
+          "course": "MATH009B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HB",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 354563,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23412",
+    "partOfTerm": "1",
+    "courseNumber": "010A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "CALCULUS OF SEVERAL VARIABLES",
+    "creditHours": 4,
+    "maximumEnrollment": 105,
+    "enrollment": 90,
+    "seatsAvailable": 15,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH010A",
+    "faculty": [],
+    "prereqs": {
+      "and": [],
+      "or": [
+        {
+          "course": "MATH007B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HB",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 348906,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16512",
+    "partOfTerm": "1",
+    "courseNumber": "010B",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "CALCULUS OF SEVERAL VARIABLES",
+    "creditHours": 4,
+    "maximumEnrollment": 115,
+    "enrollment": 115,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH010B",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16512",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16512",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "prereqs": {
+      "and": [
+        {
+          "course": "MATH010A",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": []
+    }
+  },
+  {
+    "id": 354575,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23423",
+    "partOfTerm": "1",
+    "courseNumber": "011",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
+    "creditHours": 4,
+    "maximumEnrollment": 130,
+    "enrollment": 33,
+    "seatsAvailable": 97,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": "XY",
+    "crossListCapacity": 130,
+    "crossListCount": 127,
+    "crossListAvailable": 3,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH011",
+    "faculty": [],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS010",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "MATH007A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH008B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009A",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HA",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "CS010V",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH007B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009B",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HB",
+          "minGrade": "D-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 354582,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23429",
+    "partOfTerm": "1",
+    "courseNumber": "022",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "CALCULUS FOR BUSINESS",
+    "creditHours": 5,
+    "maximumEnrollment": 205,
+    "enrollment": 202,
+    "seatsAvailable": 3,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH022",
+    "faculty": []
+  },
+  {
+    "id": 354613,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23457",
+    "partOfTerm": "1",
+    "courseNumber": "031",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "APPLIED LINEAR ALGEBRA",
+    "creditHours": 5,
+    "maximumEnrollment": 130,
+    "enrollment": 117,
+    "seatsAvailable": 13,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH031",
+    "faculty": [],
+    "prereqs": {
+      "and": [
+        {
+          "course": "CS010",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ],
+      "or": [
+        {
+          "course": "MATH007A",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH008B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009A",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HA",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH007B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HB",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 354616,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23460",
+    "partOfTerm": "1",
+    "courseNumber": "046",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS",
+    "creditHours": 4,
+    "maximumEnrollment": 80,
+    "enrollment": 80,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH046",
+    "faculty": [],
+    "prereqs": {
+      "and": [],
+      "or": [
+        {
+          "course": "MATH007B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH009B",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        },
+        {
+          "course": "MATH09HB",
+          "minGrade": "C-",
+          "disallowConcurrent": true
+        }
+      ]
+    }
+  }
+]
