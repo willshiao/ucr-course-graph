@@ -30,6 +30,7 @@ module.exports = {
     },
     term: 201740,
     subjects: 'CS,MATH', // Comma-seperated. Can be blank.
+    replaceUnknown: false, // Replace unknown classes with 'UNKNOWN', not yet implemented
   },
 
   request: {
