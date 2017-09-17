@@ -1,0 +1,371 @@
+
+[
+  {
+    "code": "ARC",
+    "description": "Academic Resource Center"
+  },
+  {
+    "code": "ANTH",
+    "description": "Anthropology"
+  },
+  {
+    "code": "ARBC",
+    "description": "Arabic Language"
+  },
+  {
+    "code": "ART",
+    "description": "Art"
+  },
+  {
+    "code": "AHS",
+    "description": "Art History"
+  },
+  {
+    "code": "AST",
+    "description": "Asian Studies"
+  },
+  {
+    "code": "BSWT",
+    "description": "Basic Writing"
+  },
+  {
+    "code": "BCH",
+    "description": "Biochemistry"
+  },
+  {
+    "code": "BIEN",
+    "description": "Bioengineering"
+  },
+  {
+    "code": "BIOL",
+    "description": "Biology"
+  },
+  {
+    "code": "BMSC",
+    "description": "Biomedical Sciences"
+  },
+  {
+    "code": "BPSC",
+    "description": "Botany/Plant Science"
+  },
+  {
+    "code": "BUS",
+    "description": "Business"
+  },
+  {
+    "code": "CHFY",
+    "description": "CHASS First Yr Experience Prog"
+  },
+  {
+    "code": "CBNS",
+    "description": "Cell Biology and Neuroscience"
+  },
+  {
+    "code": "CMDB",
+    "description": "Cell, Molecular, and Develpmnt"
+  },
+  {
+    "code": "CHE",
+    "description": "Chemical Engineering"
+  },
+  {
+    "code": "CEE",
+    "description": "Chemical and Environmental Eng"
+  },
+  {
+    "code": "CHEM",
+    "description": "Chemistry"
+  },
+  {
+    "code": "CHN",
+    "description": "Chinese"
+  },
+  {
+    "code": "CLA",
+    "description": "Classical Studies"
+  },
+  {
+    "code": "CPAC",
+    "description": "Comparative Ancient Civilizatn"
+  },
+  {
+    "code": "CPLT",
+    "description": "Comparative Literature"
+  },
+  {
+    "code": "CS",
+    "description": "Computer Science"
+  },
+  {
+    "code": "CRWT",
+    "description": "Creative Writing"
+  },
+  {
+    "code": "CWPA",
+    "description": "Crwt Wrt &amp; Wrt for Perf Arts"
+  },
+  {
+    "code": "DNCE",
+    "description": "Dance"
+  },
+  {
+    "code": "ECON",
+    "description": "Economics"
+  },
+  {
+    "code": "EDUC",
+    "description": "Education"
+  },
+  {
+    "code": "EE",
+    "description": "Electrical Engineering"
+  },
+  {
+    "code": "ENGR",
+    "description": "Engineering"
+  },
+  {
+    "code": "ENGL",
+    "description": "English"
+  },
+  {
+    "code": "ENTM",
+    "description": "Entomology"
+  },
+  {
+    "code": "ENVE",
+    "description": "Environmental Engineering"
+  },
+  {
+    "code": "ENSC",
+    "description": "Environmental Sciences"
+  },
+  {
+    "code": "ENTX",
+    "description": "Environmental Toxicology"
+  },
+  {
+    "code": "ETST",
+    "description": "Ethnic Studies"
+  },
+  {
+    "code": "EUR",
+    "description": "European Culture"
+  },
+  {
+    "code": "EEOB",
+    "description": "Evoltn, Ecolgy, &amp; Orgnsml Bio"
+  },
+  {
+    "code": "FIL",
+    "description": "Filipino"
+  },
+  {
+    "code": "FREN",
+    "description": "French"
+  },
+  {
+    "code": "GSST",
+    "description": "Gender and Sexuality Studies"
+  },
+  {
+    "code": "GEN",
+    "description": "Genetics"
+  },
+  {
+    "code": "GEO",
+    "description": "Geosciences"
+  },
+  {
+    "code": "GER",
+    "description": "German"
+  },
+  {
+    "code": "GBST",
+    "description": "Global Studies"
+  },
+  {
+    "code": "GDIV",
+    "description": "Graduate Division"
+  },
+  {
+    "code": "GRK",
+    "description": "Greek"
+  },
+  {
+    "code": "HIST",
+    "description": "History"
+  },
+  {
+    "code": "HISE",
+    "description": "History of Europe"
+  },
+  {
+    "code": "HISA",
+    "description": "History of the Americas"
+  },
+  {
+    "code": "HNPG",
+    "description": "Honors"
+  },
+  {
+    "code": "HASS",
+    "description": "Humanities, Arts and Soc Sci"
+  },
+  {
+    "code": "ITAL",
+    "description": "Italian"
+  },
+  {
+    "code": "JPN",
+    "description": "Japanese"
+  },
+  {
+    "code": "KOR",
+    "description": "Korean"
+  },
+  {
+    "code": "LABR",
+    "description": "Labor Relations"
+  },
+  {
+    "code": "LATN",
+    "description": "Latin"
+  },
+  {
+    "code": "LNST",
+    "description": "Latin American Studies"
+  },
+  {
+    "code": "LWSO",
+    "description": "Law &amp; Society"
+  },
+  {
+    "code": "LGBS",
+    "description": "Lesbian, Gay, Bisexual Studies"
+  },
+  {
+    "code": "LING",
+    "description": "Linguistics"
+  },
+  {
+    "code": "CWLR",
+    "description": "Low Res-Crwt Wrt&amp;Wrt-Perf Arts"
+  },
+  {
+    "code": "MGT",
+    "description": "Management"
+  },
+  {
+    "code": "MSE",
+    "description": "Materials Sci and Engineering"
+  },
+  {
+    "code": "MATH",
+    "description": "Mathematics"
+  },
+  {
+    "code": "ME",
+    "description": "Mechanical Engineering"
+  },
+  {
+    "code": "MCS",
+    "description": "Media and Cultural Studies"
+  },
+  {
+    "code": "MCBL",
+    "description": "Microbiology"
+  },
+  {
+    "code": "MUS",
+    "description": "Music"
+  },
+  {
+    "code": "NASC",
+    "description": "Natural &amp;Agricultural Sciences"
+  },
+  {
+    "code": "NEM",
+    "description": "Nematology"
+  },
+  {
+    "code": "NRSC",
+    "description": "Neuroscience"
+  },
+  {
+    "code": "PCST",
+    "description": "Peace and Conflict Studies"
+  },
+  {
+    "code": "PHIL",
+    "description": "Philosophy"
+  },
+  {
+    "code": "PHYS",
+    "description": "Physics"
+  },
+  {
+    "code": "PLPA",
+    "description": "Plant Pathology"
+  },
+  {
+    "code": "POSC",
+    "description": "Political Science"
+  },
+  {
+    "code": "PORT",
+    "description": "Portuguese"
+  },
+  {
+    "code": "PSYC",
+    "description": "Psychology"
+  },
+  {
+    "code": "PBPL",
+    "description": "Public Policy"
+  },
+  {
+    "code": "RLST",
+    "description": "Religious Studies"
+  },
+  {
+    "code": "RUSN",
+    "description": "Russian Studies"
+  },
+  {
+    "code": "MDCL",
+    "description": "School of Medicine"
+  },
+  {
+    "code": "SOC",
+    "description": "Sociology"
+  },
+  {
+    "code": "SWSC",
+    "description": "Soil and Water Science"
+  },
+  {
+    "code": "SEAS",
+    "description": "Southeast Asian Studies"
+  },
+  {
+    "code": "SPN",
+    "description": "Spanish"
+  },
+  {
+    "code": "STAT",
+    "description": "Statistics"
+  },
+  {
+    "code": "TFDP",
+    "description": "Theater, Film &amp; Digital Prod"
+  },
+  {
+    "code": "URST",
+    "description": "Urban Studies"
+  },
+  {
+    "code": "VNM",
+    "description": "Vietnamese"
+  }
+]
