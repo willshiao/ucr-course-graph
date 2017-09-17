@@ -21,6 +21,12 @@ module.exports = {
     ],
     cookieDomain: 'https://registrationssb.ucr.edu',
   },
+
+  catalog: {
+    term: 201740,
+    subjects: 'CS,MATH', // Comma-seperated. Can be blank.
+  },
+
   request: {
     default: { // Default settings, passed to request library
       headers: {

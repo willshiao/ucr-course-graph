@@ -4,7 +4,7 @@
 		{ "path": "config" },
 		{ "path": "data" },
 		{ "path": "scripts" },
-		{ "path": "scripts/lib" },
+		{ "name": "scripts/lib", "path": "scripts/lib" },
 		{ "path": "." }
 	]
 }

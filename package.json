@@ -4,7 +4,8 @@
   "description": "A dependency graph for UCR courses.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getCatalog": "node scripts/catalog.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "config": "^1.26.2",
+    "lodash": "^4.17.4",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
     "tough-cookie": "^2.3.2"
