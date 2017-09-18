@@ -14,8 +14,6 @@ const s = new sigma({
 
 function onData(catalog) {
   console.log(catalog);
-  const N = 500;
-  const E = 1000;
 
   const edges = [];
 
