@@ -35,9 +35,10 @@ function onData(catalog) {
   console.log(catalog);
 
   const localEdges = [];
+  const localNodes = [];
 
   _.forEach(catalog, (course) => {
-    nodes.add({
+    localNodes.push({
       id: course.subjectCourse,
       label: course.subjectCourse, // `${course.subjectCourse}: ${course.courseTitle}`,
     });
@@ -63,16 +64,12 @@ function onData(catalog) {
     });
   });
 
-  _.forEach(localEdges, (edge) => {
-    if(_.some(catalog, c => c.subjectCourse === edge.to)) {
-      console.log(edge);
-      edges.add(edge);
-    }
-  });
+  nodes.add(localNodes);
+  edges.add(_.filter(localEdges, edge => _.some(catalog, c => c.subjectCourse === edge.to)));
 }
 
 $.get({
-  url: 'data/201740_CS-MATH_prereqs.json',
+  url: 'data/201740_all_prereqs.json',
   success: onData,
   dataType: 'json',
 });
