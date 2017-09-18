@@ -3,6 +3,8 @@
 const config = require('config');
 const Promise = require('bluebird');
 const fs = Promise.promisifyAll(require('fs'));
+const assert = require('assert');
+const _ = require('lodash');
 
 const fileHelper = require('./lib/fileHelper');
 const authHandler = require('./lib/authHandler');
@@ -17,7 +19,7 @@ async function getCatalog(j) {
     qs: {
       txt_term: config.get('catalog.term'),
       txt_subject: config.get('catalog.subjects'),
-      pageOffset: 1,
+      pageOffset: 0,
       pageMaxSize: 1,
     },
     jar,
@@ -28,11 +30,26 @@ async function getCatalog(j) {
   let res = await rp(options);
   const numCourses = res.totalCount;
   console.log('Courses:', numCourses);
+  assert.notEqual(numCourses, 0);
+
+  const numPages = Math.ceil(numCourses / 500);
 
   // Next, fetch all courses
-  options.qs.pageMaxSize = numCourses;
-  res = await rp(options);
-  const fetchedCourses = res.data;
+  let fetchedCourses = [];
+  const requestQueue = [];
+  options.qs.pageMaxSize = 500;
+
+  for(let pageOffset = 0; pageOffset <= numCourses; pageOffset += 500) {
+    requestQueue.push((async function() {
+      const settings = options;
+      settings.qs.pageOffset = pageOffset;
+      res = await rp(settings);
+      console.log('Fetched', res.data.length, 'courses');
+      fetchedCourses = fetchedCourses.concat(res.data);
+    })());
+  }
+  await Promise.all(requestQueue);
+  console.log('Fetched a total of', fetchedCourses.length, 'courses');
 
   // Next, get one of each lecture
   const courses = {};
