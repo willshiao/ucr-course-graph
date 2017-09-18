@@ -1,67 +1,74 @@
 'use strict';
 
-const g = {
-  nodes: [],
-  edges: [],
-};
+const nodes = new vis.DataSet([]);
+const edges = new vis.DataSet([]);
 
-// Instantiate sigma:
-const s = new sigma({
-  graph: g,
-  container: 'container',
-});
+const container = document.getElementById('container');
+const data = {
+  nodes,
+  edges,
+};
+const options = {
+  layout: {
+    hierarchical: {
+      direction: 'UD',
+      sortMethod: 'directed',
+      edgeMinimization: true,
+    },
+  },
+  interaction: { dragNodes: true },
+  physics: {
+    enabled: false,
+  },
+  configure: {
+    showButton: false,
+  },
+  edges: {
+    smooth: true,
+    arrows: { to: true },
+  },
+};
+const network = new vis.Network(container, data, options);
 
 
 function onData(catalog) {
   console.log(catalog);
-  const N = 500;
-  const E = 1000;
 
-  const edges = [];
+  const localEdges = [];
 
   _.forEach(catalog, (course) => {
-    s.graph.addNode({
+    nodes.add({
       id: course.subjectCourse,
-      label: `${course.subjectCourse}: ${course.courseTitle}`,
-      x: Math.random(),
-      y: Math.random(),
-      size: 1,
-      color: '#666',
+      label: course.subjectCourse, // `${course.subjectCourse}: ${course.courseTitle}`,
     });
     if(!course.prereqs || !course.prereqs.and) return true;
     const prereqs = [];
     _.forEach(course.prereqs.and, (req) => {
-      req.color = '#3633FF';
+      // req.color = '#3633FF';
       prereqs.push(req);
     });
     _.forEach(course.prereqs.or, (req) => {
-      req.color = '#FF0000';
+      // req.color = '#FF0000';
+      req.dashes = true;
       prereqs.push(req);
     });
     _.forEach(prereqs, (req, num) => {
       // console.log(req);
-      edges.push({
+      localEdges.push({
         id: `${course.subjectCourse}-${num}`,
-        source: course.subjectCourse,
-        target: req.course,
-        size: 1,
-        color: req.color,
-        type: 'arrow',
+        from: course.subjectCourse,
+        to: req.course,
+        dashes: req.dashes || false,
       });
     });
   });
-  s.refresh();
 
-  _.forEach(edges, (edge) => {
-    if(_.some(catalog, c => c.subjectCourse === edge.target)) {
+  _.forEach(localEdges, (edge) => {
+    if(_.some(catalog, c => c.subjectCourse === edge.to)) {
       console.log(edge);
-      s.graph.addEdge(edge);
+      edges.add(edge);
     }
   });
-
-  console.log('Done:', g);
-  s.refresh();
-  s.startForceAtlas2();
 }
 
 $.get({

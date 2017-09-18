@@ -7,6 +7,7 @@ module.exports = {
   globals: {
     "_": true,
     sigma: true,
+    vis: true,
   },
   extends: 'airbnb-base',
   parserOptions: {
