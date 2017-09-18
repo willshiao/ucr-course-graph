@@ -61,6 +61,7 @@ function onData(catalog) {
 
   console.log('Done:', g);
   s.refresh();
+  s.startForceAtlas2();
 }
 
 $.get({
