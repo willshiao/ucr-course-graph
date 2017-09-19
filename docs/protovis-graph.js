@@ -23,7 +23,7 @@ function onData(data) {
   data.nodes = data.nodes.filter(node => node);
 
   const vis = new pv.Panel()
-    .width(3000)
+    .width(3500)
     .height(1500)
     .bottom(90);
 
@@ -37,7 +37,7 @@ function onData(data) {
 
   arc.link.add(pv.Line)
     .strokeStyle((n, l) => {
-      console.log(n, l);
+      // console.log(n, l);
       if(l.type === 'or') return 'rgba(204, 0, 3, 0.3)';
       return 'rgba(0, 0, 200, 0.3)';
     });
@@ -47,7 +47,8 @@ function onData(data) {
     .fillStyle(pv.Colors.category19().by(d => d.group))
     .strokeStyle(function makeDarker() {
       return this.fillStyle().darker();
-    });
+    })
+    .title(d => d.fullName);
 
   arc.label.add(pv.Label);
 
