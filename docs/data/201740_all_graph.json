@@ -1,0 +1,6820 @@
+{
+  "nodes": [
+    {
+      "nodeName": "ARC035",
+      "fullName": "INTRMDIATE ALGEBRA WRKSHOP-IAW",
+      "group": 0
+    },
+    {
+      "nodeName": "ANTH001",
+      "fullName": "CULTURAL ANTHROPOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH002",
+      "fullName": "BIOLOGICAL ANTHROPOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH005",
+      "fullName": "INTRODUCTION TO ARCHAEOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH100",
+      "fullName": "HISTORY OF ANTHROPOLOGICAL THEORY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH112",
+      "fullName": "SETTLEMENT PATTERNS AND LOCATIONAL ANALYSIS",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH115E",
+      "fullName": "NORTH AMERICAN PREHISTORY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH120",
+      "fullName": "LANGUAGE AND CULTURE",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH122",
+      "fullName": "ECONOMIC ANTHROPOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH123",
+      "fullName": "LINGUISTIC ANTHROPOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH127",
+      "fullName": "POLITICAL ANTHROPOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH152",
+      "fullName": "EVOLUTION OF THE FIRST HOMINIDS",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH154",
+      "fullName": "RESEARCH METHODS IN BIOLOGICAL ANTHROPOLOGY",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH163",
+      "fullName": "TRANSNATIONAL AND GLOBAL COMMUNITIES",
+      "group": 1
+    },
+    {
+      "nodeName": "ANTH187",
+      "fullName": "ANTHROPOLOGY OF RISK",
+      "group": 1
+    },
+    {
+      "nodeName": "ARBC001",
+      "fullName": "ELEMENTARY ARABIC",
+      "group": 2
+    },
+    {
+      "nodeName": "ARBC004",
+      "fullName": "INTERMEDIATE ARABIC",
+      "group": 2
+    },
+    {
+      "nodeName": "ART001",
+      "fullName": "BEGINNING DRAWING AND DESIGN",
+      "group": 3
+    },
+    {
+      "nodeName": "ART002",
+      "fullName": "BEGINNING PAINTING AND DESIGN",
+      "group": 3
+    },
+    {
+      "nodeName": "ART003",
+      "fullName": "INTRODUCTION TO PHOTOGRAPHIC PROCESSES",
+      "group": 3
+    },
+    {
+      "nodeName": "ART004",
+      "fullName": "INTRODUCTION TO MOVING IMAGES: FILM, VIDEO AND NEW MEDIA",
+      "group": 3
+    },
+    {
+      "nodeName": "ART005",
+      "fullName": "BEGINNING SCULPTURE AND THREE-DIMENSIONAL DESIGN",
+      "group": 3
+    },
+    {
+      "nodeName": "ART006",
+      "fullName": "INTRODUCTION TO CONTEMPORARY CRITICAL ISSUES IN ART",
+      "group": 3
+    },
+    {
+      "nodeName": "ART032",
+      "fullName": "SOPHOMORE WORKSHOP",
+      "group": 3
+    },
+    {
+      "nodeName": "ART065",
+      "fullName": "INTRODUCTION TO DIGITAL PAINTING AND DRAWING: PAINTING WITHOUT A TRACE",
+      "group": 3
+    },
+    {
+      "nodeName": "ART070E",
+      "fullName": "INTRO TO IMAGE MANIPULATION",
+      "group": 3
+    },
+    {
+      "nodeName": "ART102",
+      "fullName": "INTERMEDIATE DRAWING",
+      "group": 3
+    },
+    {
+      "nodeName": "ART110",
+      "fullName": "INTERMEDIATE PAINTING",
+      "group": 3
+    },
+    {
+      "nodeName": "ART131",
+      "fullName": "INTERMEDIATE PHOTOGRAPHY AND DIGITAL TECHNOLOGY",
+      "group": 3
+    },
+    {
+      "nodeName": "ART132",
+      "fullName": "JUNIOR ART WORKSHOP",
+      "group": 3
+    },
+    {
+      "nodeName": "AHS008",
+      "fullName": "MODERN WESTERN VISUAL CULTURE",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS015",
+      "fullName": "ARTS OF ASIA",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS017A",
+      "fullName": "HISTORY OF WESTERN ART: PREHISTORIC TO BYZANTINE",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS028",
+      "fullName": "ART AND ARCHITECTURE OF LATIN AMERICA",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS156",
+      "fullName": "MEMORY OF EMPIRE: THE ART OF EARLY MEDIEVAL EUROPE",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS170",
+      "fullName": "BAROQUE ARCHITECTURE",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS189E",
+      "fullName": "RADICAL WOMN IN LTN AMRCAN ART",
+      "group": 4
+    },
+    {
+      "nodeName": "AHS302",
+      "fullName": "TEACHING PRACTICUM",
+      "group": 4
+    },
+    {
+      "nodeName": "AST034",
+      "fullName": "INTRODUCTION TO CLASSICAL JAPANESE LITERATURE",
+      "group": 5
+    },
+    {
+      "nodeName": "AST063",
+      "fullName": "READING SOUTHEAST ASIAN STORIES",
+      "group": 5
+    },
+    {
+      "nodeName": "AST112",
+      "fullName": "MODERN KOREAN LITERATURE",
+      "group": 5
+    },
+    {
+      "nodeName": "AST153E",
+      "fullName": "THEMES IN EARLY JAPANESE LIT",
+      "group": 5
+    },
+    {
+      "nodeName": "AST184",
+      "fullName": "JAPANESE MEDIA AND CULTURAL STUDIES",
+      "group": 5
+    },
+    {
+      "nodeName": "BSWT001",
+      "fullName": "IMMERSIVE ENGLISH",
+      "group": 6
+    },
+    {
+      "nodeName": "BSWT002",
+      "fullName": "ORAL COMMUNICATION",
+      "group": 6
+    },
+    {
+      "nodeName": "BSWT003",
+      "fullName": "BASIC WRITING FOR SECOND-LANGUAGE STUDENTS",
+      "group": 6
+    },
+    {
+      "nodeName": "BCH015",
+      "fullName": "INTRODUCTION BIOCHEMISTRY LABORATORY",
+      "group": 7
+    },
+    {
+      "nodeName": "BCH100",
+      "fullName": "ELEMENTARY BIOCHEMISTRY",
+      "group": 7
+    },
+    {
+      "nodeName": "PSYC110",
+      "fullName": "THE BRAIN AND BEHAVIOR",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC120L",
+      "fullName": "NEUROSCIENCE LABORATORY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC121",
+      "fullName": "DEVELOPMENTAL NEUROSCIENCE",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC124",
+      "fullName": "SYSTEMS NEUROSCIENCE",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC132",
+      "fullName": "PERCEPTION",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC142",
+      "fullName": "INDUSTRIAL/ORGANIZATIONAL PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC150",
+      "fullName": "PERSONALITY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC152",
+      "fullName": "ABNORMAL PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC161",
+      "fullName": "SOCIOEMOTIONAL AND PERSONALITY DEVELOPMENT",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC169",
+      "fullName": "TOPICS IN DEVELOPMENTAL PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC175",
+      "fullName": "PSYCHOLOGY AND LAW",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC181",
+      "fullName": "LABORATORY IN COGNITIVE PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC200A",
+      "fullName": "FUNDAMENTALS OF NEUROSCIENCE",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC203A",
+      "fullName": "EXPERIMENTAL PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC207A",
+      "fullName": "THEORIES IN DEVELOPMENTAL PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC211",
+      "fullName": "STATISTICAL INFERENCE",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC233",
+      "fullName": "RESEARCH METHODS IN COGNITIVE SCIENCE",
+      "group": 79
+    },
+    {
+      "nodeName": "PBPL001",
+      "fullName": "INTRODUCTION TO PUBLIC POLICY ANALYSIS",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL002",
+      "fullName": "POLITICS AND PUBLIC POLICY",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL006",
+      "fullName": "INTRO: ENVIRONMENTAL ECONOMICS",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL155",
+      "fullName": "WOMEN&#39;S LABOR AND THE ECONOMY",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL200",
+      "fullName": "INTRODUCTION TO POLICY ANALYSIS",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL204",
+      "fullName": "REGIONAL POLICY-MAKING ACROSS ADMINISTRATIVE JURISDICTIONS",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL210",
+      "fullName": "QUANTITATIVE METHODS FOR PUBLIC POLICY ANALYSIS",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL216",
+      "fullName": "PUBLIC LEADERSHIP AND MANAGEMENT",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL222",
+      "fullName": "ETHICS, PROFESSIONALISM, AND THE NORMATIVE BASES OF PUBLIC POLICIES",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL241",
+      "fullName": "CLIMATE CHANGE POLICY",
+      "group": 80
+    },
+    {
+      "nodeName": "PBPL260",
+      "fullName": "EDUCATION POLICY ANALYSIS",
+      "group": 80
+    },
+    {
+      "nodeName": "RLST004",
+      "fullName": "RELIGION, SOCIETY, AND CULTURE",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST004H",
+      "fullName": "HONORS RELIGION, SOCIETY, AND CULTURE",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST005",
+      "fullName": "INTRODUCTION TO ASIAN RELIGIONS",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST012",
+      "fullName": "RELIGIOUS MYTHS AND RITUALS",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST012H",
+      "fullName": "HONORS RELIGIOUS MYTHS AND RITUALS",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST100",
+      "fullName": "THE PROBLEM OF RELIGION",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST101",
+      "fullName": "RELIGIONS OF INDIA",
+      "group": 81
+    },
+    {
+      "nodeName": "RLST135A",
+      "fullName": "HISTORY OF CHRISTIANITY: ORIGINS TO THE REFORMATION",
+      "group": 81
+    },
+    {
+      "nodeName": "RUSN001",
+      "fullName": "ELEMENTARY RUSSIAN",
+      "group": 82
+    },
+    {
+      "nodeName": "RUSN004",
+      "fullName": "INTERMEDIATE RUSSIAN",
+      "group": 82
+    },
+    {
+      "nodeName": "MDCL231",
+      "fullName": "FOUNDATIONS OF MEDICINE I",
+      "group": 83
+    },
+    {
+      "nodeName": "MDCL232",
+      "fullName": "CARDIO,RENAL&amp;RESP SCIENCES I",
+      "group": 83
+    },
+    {
+      "nodeName": "MDCL236",
+      "fullName": "FOUNDATIONS OF MEDICINE II",
+      "group": 83
+    },
+    {
+      "nodeName": "MDCL289",
+      "fullName": "INTRO:MDCL &amp; HEALTH HUMANITIES",
+      "group": 83
+    },
+    {
+      "nodeName": "MDCL290",
+      "fullName": "DIRECTED STUDIES",
+      "group": 83
+    },
+    {
+      "nodeName": "SOC001",
+      "fullName": "INTRODUCTION TO SOCIOLOGY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC002F",
+      "fullName": "THE CITY",
+      "group": 84
+    },
+    {
+      "nodeName": "POSC005W",
+      "fullName": "POLITICAL IDEOLOGIES",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC010",
+      "fullName": "AMERICAN POLITICS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC015",
+      "fullName": "COMPARATIVE POLITICS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC020",
+      "fullName": "WORLD POLITICS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC100",
+      "fullName": "PRESIDENTIAL POLITICS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC108",
+      "fullName": "POLITICS OF RACE, IMMIGRATION, AND ETHNICITY IN THE UNITED STATES",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC111S",
+      "fullName": "DEMOCRACY AND THE SOCIAL CONTRACT",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC121",
+      "fullName": "MONARCHY",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC124S",
+      "fullName": "INTERNATIONAL RELATIONS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC125",
+      "fullName": "UNITED STATES FOREIGN POLICY SINCE WORLD WAR II",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC126S",
+      "fullName": "THE POLITICS OF INTERNATIONAL TRADE, FINANCE, AND DEVELOPMENT",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC134S",
+      "fullName": "POLITICAL ECONOMY OF INTERNATIONAL FINANCE",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC145",
+      "fullName": "MONEY IN AMERICAN POLITICS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC146",
+      "fullName": "MASS MEDIA AND PUBLIC OPINION",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC155S",
+      "fullName": "GOVERNMENT AND POLITICS IN WESTERN EUROPE",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC159S",
+      "fullName": "THE ARMED FORCES AND POLITICS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC164S",
+      "fullName": "THE NATION STATE AND CAPITALISM",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC178S",
+      "fullName": "POLITICAL CONSEQUENCES OF ELECTORAL INSTITUTIONS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC182",
+      "fullName": "POLITICS AND ECONOMIC POLICY",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC201",
+      "fullName": "INTRODUCTION TO POLITICAL INQUIRY",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC202A",
+      "fullName": "SURVEY OF QUANTITATIVE METHODS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC216",
+      "fullName": "INTERNATIONAL RELATIONS",
+      "group": 77
+    },
+    {
+      "nodeName": "POSC293",
+      "fullName": "RESEARCH TOPICS IN POLITICAL SCIENCE",
+      "group": 77
+    },
+    {
+      "nodeName": "PSYC001",
+      "fullName": "INTRODUCTORY PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC002",
+      "fullName": "INTRODUCTORY PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC011",
+      "fullName": "PSYCHOLOGICAL METHODS: STATISTICAL PROCEDURES",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC012",
+      "fullName": "PSYCHOLOGICAL METHODS: RESEARCH PROCEDURES",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC013",
+      "fullName": "SKEPTICISM AND PSEUDOSCIENCE IN PSYCHOLOGY",
+      "group": 79
+    },
+    {
+      "nodeName": "PSYC049",
+      "fullName": "TECHNOLOGY &amp; HUMAN DEVELOPMENT",
+      "group": 79
+    },
+    {
+      "nodeName": "CS008",
+      "fullName": "INTRODUCTION TO COMPUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS010",
+      "fullName": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING I",
+      "group": 23
+    },
+    {
+      "nodeName": "CS011",
+      "fullName": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
+      "group": 23
+    },
+    {
+      "nodeName": "CS012",
+      "fullName": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING II",
+      "group": 23
+    },
+    {
+      "nodeName": "CS014",
+      "fullName": "INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS061",
+      "fullName": "MACHINE ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS100",
+      "fullName": "SOFTWARE CONSTRUCTION",
+      "group": 23
+    },
+    {
+      "nodeName": "CS111",
+      "fullName": "DISCRETE STRUCTURES",
+      "group": 23
+    },
+    {
+      "nodeName": "CS120A",
+      "fullName": "LOGIC DESIGN",
+      "group": 23
+    },
+    {
+      "nodeName": "CS122A",
+      "fullName": "INTERMEDIATE EMBEDDED AND REAL-TIME SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS130",
+      "fullName": "COMPUTER GRAPHICS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS141",
+      "fullName": "INTERMEDIATE DATA STRUCTURES AND ALGORITHMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS153",
+      "fullName": "DESIGN OF OPERATING SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS161",
+      "fullName": "DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS161L",
+      "fullName": "LABORATORY IN DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS164",
+      "fullName": "COMPUTER NETWORKS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS165",
+      "fullName": "COMPUTER SECURITY",
+      "group": 23
+    },
+    {
+      "nodeName": "CS166",
+      "fullName": "DATABASE MANAGEMENT SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS170",
+      "fullName": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+      "group": 23
+    },
+    {
+      "nodeName": "CS171",
+      "fullName": "INTRODUCTION TO MACHINE LEARNING AND DATA MINING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS180",
+      "fullName": "INTRODUCTION TO SOFTWARE ENGINEERING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS202",
+      "fullName": "ADVANCED OPERATING SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS203",
+      "fullName": "ADVANCED COMPUTER ARCHITECTURE",
+      "group": 23
+    },
+    {
+      "nodeName": "CS204",
+      "fullName": "ADVANCED COMPUTER NETWORKS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS211",
+      "fullName": "HIGH PERFORMANCE COMPUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS217",
+      "fullName": "GPU ARCHITECTURE AND PARALLEL PROGRAMMING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS218",
+      "fullName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS220",
+      "fullName": "SYNTHESIS OF DIGITAL SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS235",
+      "fullName": "DATA MINING TECHNIQUES",
+      "group": 23
+    },
+    {
+      "nodeName": "CS236",
+      "fullName": "DATABASE MANAGEMENT SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS240",
+      "fullName": "NETWORK ROUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS257",
+      "fullName": "WIRELESS NETWORKS AND MOBILE COMPUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CRWT040",
+      "fullName": "FICTION AND FILM",
+      "group": 24
+    },
+    {
+      "nodeName": "CRWT044",
+      "fullName": "GHOSTS, GODS, AND MONSTERS: CHILDREN&#39;S LITERATURE FOR WRITERS",
+      "group": 24
+    },
+    {
+      "nodeName": "CRWT045",
+      "fullName": "THE PROSE POEM AND &quot;SHORT-SHORT&quot; STORY",
+      "group": 24
+    },
+    {
+      "nodeName": "CRWT046S",
+      "fullName": "COOL &amp; EXCTNG CNTMPRY FCTN",
+      "group": 24
+    },
+    {
+      "nodeName": "CRWT056",
+      "fullName": "INTRODUCTION TO CREATIVE WRITING",
+      "group": 24
+    },
+    {
+      "nodeName": "CRWT066",
+      "fullName": "SCREENWRITING: HOW MOVIES WORK",
+      "group": 24
+    },
+    {
+      "nodeName": "CRWT176",
+      "fullName": "THE ART OF THE PARAGRAPH",
+      "group": 24
+    },
+    {
+      "nodeName": "DNCE007",
+      "fullName": "DANCE: CULTURES AND CONTEXTS\r\n",
+      "group": 26
+    },
+    {
+      "nodeName": "DNCE014",
+      "fullName": "INTRODUCTION TO CHOREOGRAPHY",
+      "group": 26
+    },
+    {
+      "nodeName": "DNCE019",
+      "fullName": "INTRODUCTION TO DANCE STUDIES",
+      "group": 26
+    },
+    {
+      "nodeName": "DNCE115J",
+      "fullName": "DANCE AND TRACES PAST",
+      "group": 26
+    },
+    {
+      "nodeName": "DNCE135",
+      "fullName": "DANCE, RACE, PROPERTY",
+      "group": 26
+    },
+    {
+      "nodeName": "DNCE239",
+      "fullName": "INTRODUCTION TO GRADUATE STUDY OF DANCE",
+      "group": 26
+    },
+    {
+      "nodeName": "DNCE242",
+      "fullName": "DANCING REPRESENTATION: FIGURES, FORMS, AND FRAMES",
+      "group": 26
+    },
+    {
+      "nodeName": "GEO001",
+      "fullName": "THE EARTH&#39;S CRUST AND INTERIOR",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO008",
+      "fullName": "EARTHQUAKE COUNTRY",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO009",
+      "fullName": "OCEANOGRAPHY",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO111",
+      "fullName": "NUMERICAL SKILLS IN GEOSCIENCE",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO115",
+      "fullName": "GEOLOGIC MAPS AND LANDFORMS",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO122",
+      "fullName": "MINERALOGY",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO145",
+      "fullName": "APPLIED AND EXPLORATION GEOPHYSICS",
+      "group": 43
+    },
+    {
+      "nodeName": "GEO151",
+      "fullName": "PRINCIPLES OF PALEONTOLOGY",
+      "group": 43
+    },
+    {
+      "nodeName": "GER001",
+      "fullName": "ELEMENTARY GERMAN",
+      "group": 44
+    },
+    {
+      "nodeName": "GER003",
+      "fullName": "ELEMENTARY GERMAN",
+      "group": 44
+    },
+    {
+      "nodeName": "GER131",
+      "fullName": "MARX, NIETZSCHE, FREUD",
+      "group": 44
+    },
+    {
+      "nodeName": "GBST001",
+      "fullName": "GLOBAL HISTORY, CULTURE, AND IDEAS",
+      "group": 45
+    },
+    {
+      "nodeName": "GBST002",
+      "fullName": "GLOBAL SOCIOECONOMIC AND POLITICAL PROCESSES",
+      "group": 45
+    },
+    {
+      "nodeName": "GRK001",
+      "fullName": "INTRODUCTION TO CLASSICAL GREEK",
+      "group": 47
+    },
+    {
+      "nodeName": "GRK101N",
+      "fullName": "XENOPHON",
+      "group": 47
+    },
+    {
+      "nodeName": "HIST001",
+      "fullName": "THE HISTORIAN AS DETECTIVE",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST010",
+      "fullName": "WORLD HISTORY: PREHISTORY TO 1500",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST015",
+      "fullName": "WORLD HISTORY: 1500 TO 1900",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST020",
+      "fullName": "WORLD HISTORY: TWENTIETH CENTURY",
+      "group": 48
+    },
+    {
+      "nodeName": "ETST001",
+      "fullName": "INTRODUCTION TO THE STUDY OF RACE AND ETHNICITY",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST001H",
+      "fullName": "HONORS INTRODUCTION TO THE STUDY OF RACE AND ETHNICITY",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST002",
+      "fullName": "INTRODUCTION TO CHICANO STUDIES IN COMPARATIVE PERSPECTIVE",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST003",
+      "fullName": "INTRODUCTION TO AFRICAN AMERICAN STUDIES IN COMPARATIVE PERSPECTIVE",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST007",
+      "fullName": "INTRODUCTION TO NATIVE AMERICAN STUDIES IN COMPARATIVE PERSPECTIVE",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST007H",
+      "fullName": "HONORS INTRODUCTION TO NATIVE AMERICAN STUDIES IN COMPARATIVE PERSPECTIVE",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST012",
+      "fullName": "RELIGIOUS MYTHS AND RITUALS",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST012H",
+      "fullName": "HONORS RELIGIOUS MYTHS AND RITUALS",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST014",
+      "fullName": "POPULAR MUSICS OF THE WORLD",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST100",
+      "fullName": "RACE AND ETHNICITY IN A COMPARATIVE PERSPECTIVE",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST113",
+      "fullName": "BLACK FEMINIST THEORY AND ACTIVISM",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST115F",
+      "fullName": "TOPICS IN NATIVE AMERICAN HIST",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST147",
+      "fullName": "HISTORY OF BLACK EDUCATION",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST153",
+      "fullName": "NATIVE AMERICAN LANGUAGE REVITALIZATION",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST175",
+      "fullName": "GENDER, ETHNICITY, AND BORDERS",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST188",
+      "fullName": "NATIVE AMERICAN WOMEN",
+      "group": 36
+    },
+    {
+      "nodeName": "ETST222",
+      "fullName": "INTERSECTIONALITIES",
+      "group": 36
+    },
+    {
+      "nodeName": "EUR042",
+      "fullName": "ITALIAN AMERICANS: VOICES AND VISIONS",
+      "group": 37
+    },
+    {
+      "nodeName": "EUR111A",
+      "fullName": "SURVEY OF RUSSIAN CIVILIZATION",
+      "group": 37
+    },
+    {
+      "nodeName": "EEOB216",
+      "fullName": "THE THEORY OF EVOLUTION",
+      "group": 38
+    },
+    {
+      "nodeName": "EEOB400",
+      "fullName": "INTRODUCTION TO GRADUATE STUDY IN BIOLOGY",
+      "group": 38
+    },
+    {
+      "nodeName": "FIL001",
+      "fullName": "FIRST-YEAR FILIPINO",
+      "group": 39
+    },
+    {
+      "nodeName": "FIL004",
+      "fullName": "SECOND-YEAR FILIPINO",
+      "group": 39
+    },
+    {
+      "nodeName": "FREN001",
+      "fullName": "INTRODUCTION TO FRENCH",
+      "group": 40
+    },
+    {
+      "nodeName": "FREN002",
+      "fullName": "INTRODUCTION TO FRENCH",
+      "group": 40
+    },
+    {
+      "nodeName": "FREN003",
+      "fullName": "INTRODUCTION TO FRENCH",
+      "group": 40
+    },
+    {
+      "nodeName": "FREN004",
+      "fullName": "INTERMEDIATE FRENCH",
+      "group": 40
+    },
+    {
+      "nodeName": "FREN015A",
+      "fullName": "INTRODUCTION TO LITERATURE AND CULTURE",
+      "group": 40
+    },
+    {
+      "nodeName": "FREN101A",
+      "fullName": "ADVANCED FRENCH STUDIES",
+      "group": 40
+    },
+    {
+      "nodeName": "FREN160",
+      "fullName": "THE FASHION OF MODERNITY",
+      "group": 40
+    },
+    {
+      "nodeName": "GSST001S",
+      "fullName": "GENDER AND SEXUALITY",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST010",
+      "fullName": "WOMEN AND CULTURE",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST020S",
+      "fullName": "WOMEN, FEMINISM, AND SOCIETY IN A GLOBAL PERSPECTIVE",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST021",
+      "fullName": "GENDER AND SUSTAINABILITY",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST100",
+      "fullName": "GENDER THEORY",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST138",
+      "fullName": "GENDER AND THE SEX TRADE",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST146",
+      "fullName": "HISTORY OF NATIVE AMERICAN WOMEN",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST155",
+      "fullName": "WOMEN&#39;S LABOR AND THE ECONOMY",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST162",
+      "fullName": "WOMEN&#39;S ISSUES IN MODERN MUSLIM THOUGHT",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST167",
+      "fullName": "WOMEN AND GENDER IN POSTCOLONIAL AFRICA",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST175",
+      "fullName": "GENDER, ETHNICITY, AND BORDERS",
+      "group": 41
+    },
+    {
+      "nodeName": "GSST181",
+      "fullName": "FEMINISMS AND ENVIRONMENTALISMS",
+      "group": 41
+    },
+    {
+      "nodeName": "GEN203",
+      "fullName": "ADVANCED GENETIC ANALYSIS IN MODEL ORGANISMS",
+      "group": 42
+    },
+    {
+      "nodeName": "GEN220",
+      "fullName": "COMPUTATIONAL ANALYSIS OF HIGH THROUGHPUT BIOLOGICAL DATA",
+      "group": 42
+    },
+    {
+      "nodeName": "GEN272",
+      "fullName": "INTRODUCTION TO IMAGING BIOINSTRUMENTATION AND ANALYSIS",
+      "group": 42
+    },
+    {
+      "nodeName": "ENGL301",
+      "fullName": "INTRODUCTION TO THE TEACHING OF ENGLISH",
+      "group": 31
+    },
+    {
+      "nodeName": "ENTM010",
+      "fullName": "NATURAL HISTORY OF INSECTS",
+      "group": 32
+    },
+    {
+      "nodeName": "ENTM100",
+      "fullName": "GENERAL ENTOMOLOGY",
+      "group": 32
+    },
+    {
+      "nodeName": "ENTM162",
+      "fullName": "INSECT BEHAVIOR",
+      "group": 32
+    },
+    {
+      "nodeName": "ENTM201",
+      "fullName": "CORE AREAS OF ENTOMOLOGY I: SUBCELLULAR-CELLULAR DISCIPLINES",
+      "group": 32
+    },
+    {
+      "nodeName": "ENTM241",
+      "fullName": "INSECT-PLANT INTERACTIONS",
+      "group": 32
+    },
+    {
+      "nodeName": "ENTM303",
+      "fullName": "PHILOSOPHY AND PEDAGOGY OF TEACHING UNDERGRADUATE LIFE SCIENCES",
+      "group": 32
+    },
+    {
+      "nodeName": "ENVE120",
+      "fullName": "UNIT OPERATIONS AND PROCESSES IN ENVIRONMENTAL ENGINEERING",
+      "group": 33
+    },
+    {
+      "nodeName": "ENVE145",
+      "fullName": "HAZARDOUS WASTE MANAGEMENT",
+      "group": 33
+    },
+    {
+      "nodeName": "ENVE171",
+      "fullName": "FUNDAMENTALS OF ENVIRONMENTAL ENGINEERING",
+      "group": 33
+    },
+    {
+      "nodeName": "ENSC001",
+      "fullName": "INTRODUCTION TO ENVIRONMENTAL SCIENCE: NATURAL RESOURCES",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC006",
+      "fullName": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC100",
+      "fullName": "INTRODUCTION TO SOIL SCIENCE",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC135",
+      "fullName": "CHEMISTRY OF THE CLEAN AND POLLUTED ATMOSPHERE",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC136",
+      "fullName": "CHEMISTRY OF NATURAL WATERS",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC163",
+      "fullName": "HYDROLOGY",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC174",
+      "fullName": "LAW, INSTITUTIONS, AND THE ENVIRONMENT",
+      "group": 34
+    },
+    {
+      "nodeName": "ENSC218",
+      "fullName": "ISOTOPES IN ECOLOGY AND ENVIRONMENTAL SCIENCE",
+      "group": 34
+    },
+    {
+      "nodeName": "ENTX135",
+      "fullName": "CHEMISTRY OF THE CLEAN AND POLLUTED ATMOSPHERE",
+      "group": 35
+    },
+    {
+      "nodeName": "ENTX201",
+      "fullName": "PRINCIPLES OF TOXICOLOGY",
+      "group": 35
+    },
+    {
+      "nodeName": "MATH004",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR BUSINESS AND THE SOCIAL SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH005",
+      "fullName": "PRECALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH006A",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH006B",
+      "fullName": " INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH007A",
+      "fullName": "CALCULUS FOR LIFE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH007B",
+      "fullName": "CALCULUS FOR LIFE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH009A",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH009B",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH009C",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH010A",
+      "fullName": "CALCULUS OF SEVERAL VARIABLES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH010B",
+      "fullName": "CALCULUS OF SEVERAL VARIABLES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH011",
+      "fullName": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH022",
+      "fullName": "CALCULUS FOR BUSINESS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH031",
+      "fullName": "APPLIED LINEAR ALGEBRA",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH046",
+      "fullName": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH09HB",
+      "fullName": "FIRST-YEAR HONORS CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH120",
+      "fullName": "OPTIMIZATION",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH131",
+      "fullName": "LINEAR ALGEBRA I",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH133",
+      "fullName": "GEOMETRY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH135A",
+      "fullName": "NUMERICAL ANALYSIS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH144",
+      "fullName": "INTRODUCTION TO SET THEORY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH146A",
+      "fullName": "ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH149A",
+      "fullName": "PROBABILITY AND MATHEMATICAL STATISTICS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH151A",
+      "fullName": "ADVANCED CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH168",
+      "fullName": "INTRODUCTION TO MATHEMATICAL MODELING",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH201A",
+      "fullName": "ALGEBRA",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH205A",
+      "fullName": "TOPOLOGY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH207A",
+      "fullName": "ORDINARY DIFFERENTIAL EQUATIONS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH209A",
+      "fullName": "REAL ANALYSIS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH210A",
+      "fullName": "COMPLEX ANALYSIS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH217",
+      "fullName": "THEORY OF PROBABILITY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH224",
+      "fullName": "INTRODUCTION TO HOMOLOGICAL ALGEBRA",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH230",
+      "fullName": "DEFORMATION THEORY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH232A",
+      "fullName": "GEOMETRY I",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH241",
+      "fullName": "MATHEMATICAL PHYSICS: CLASSICAL MECHANICS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH302",
+      "fullName": "APPRENTICE TEACHING",
+      "group": 65
+    },
+    {
+      "nodeName": "ME018",
+      "fullName": "INTRODUCTION TO ENGINEERING COMPUTATION",
+      "group": 66
+    },
+    {
+      "nodeName": "ME100A",
+      "fullName": "THERMODYNAMICS",
+      "group": 66
+    },
+    {
+      "nodeName": "ME103",
+      "fullName": "DYNAMICS",
+      "group": 66
+    },
+    {
+      "nodeName": "ME114",
+      "fullName": "INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING",
+      "group": 66
+    },
+    {
+      "nodeName": "ME116B",
+      "fullName": "HEAT TRANSFER",
+      "group": 66
+    },
+    {
+      "nodeName": "ME135",
+      "fullName": "TRANSPORT PHENOMENA",
+      "group": 66
+    },
+    {
+      "nodeName": "ME138",
+      "fullName": "TRANSPORT PHENOMENA IN LIVING SYSTEMS",
+      "group": 66
+    },
+    {
+      "nodeName": "ME145",
+      "fullName": "ROBOTIC PLANNING AND KINEMATICS",
+      "group": 66
+    },
+    {
+      "nodeName": "ME156",
+      "fullName": "MECHANICAL BEHAVIOR OF MATERIALS",
+      "group": 66
+    },
+    {
+      "nodeName": "MUS293",
+      "fullName": "COMPOSITION PRACTICUM",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS302",
+      "fullName": "TEACHING PRACTICUM",
+      "group": 69
+    },
+    {
+      "nodeName": "NRSC200A",
+      "fullName": "FUNDAMENTALS OF NEUROSCIENCE",
+      "group": 72
+    },
+    {
+      "nodeName": "PHIL001",
+      "fullName": "INTRODUCTION TO PHILOSOPHY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL005",
+      "fullName": "EVIL",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL007",
+      "fullName": "INTRODUCTION TO CRITICAL THINKING",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL008",
+      "fullName": "INTRODUCTION TO LOGIC",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL030E",
+      "fullName": "HELLENC PHIL:PRE-SOCRTCS-ARIST",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL110",
+      "fullName": "ASIAN PHILOSOPHY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL118",
+      "fullName": "PERSONHOOD AND PERSONAL IDENTITY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL122E",
+      "fullName": "TOPICS: HISTORY OF PHILOSOPHY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL122J",
+      "fullName": "TOPICS: HISTORY OF PHILOSOPHY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL124",
+      "fullName": "FORMAL LOGIC",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL131",
+      "fullName": "TWENTIETH-CENTURY ANALYTIC PHILOSOPHY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL134",
+      "fullName": "PHILOSOPHY OF MIND",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL140",
+      "fullName": "TOPICS IN METAPHYSICS",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL151",
+      "fullName": "EXISTENTIALISM",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL161",
+      "fullName": "ETHICS",
+      "group": 74
+    },
+    {
+      "nodeName": "PHIL169E",
+      "fullName": "TOPICS IN VALUE THEORY",
+      "group": 74
+    },
+    {
+      "nodeName": "PHYS002A",
+      "fullName": "GENERAL PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "DNCE302",
+      "fullName": "TEACHING PRACTICUM",
+      "group": 26
+    },
+    {
+      "nodeName": "ECON002",
+      "fullName": "INTRODUCTION TO MACROECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON003",
+      "fullName": "INTRODUCTION TO MICROECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON006",
+      "fullName": "INTRODUCTION TO ENVIRONMENTAL ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON101",
+      "fullName": "STATISTICS FOR ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON103",
+      "fullName": "INTERMEDIATE MACROECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON104A",
+      "fullName": "INTERMEDIATE MICROECONOMIC THEORY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON105A",
+      "fullName": "INTERMEDIATE MACROECONOMIC THEORY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON107",
+      "fullName": "INTRODUCTORY ECONOMETRICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON110",
+      "fullName": "MATHEMATICAL ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON116",
+      "fullName": "FOUNDATIONS OF POLITICAL ECONOMY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON119",
+      "fullName": "LAW AND ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON124",
+      "fullName": "WORLD ECONOMIC HISTORY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON129",
+      "fullName": "HEALTH ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON134",
+      "fullName": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON135",
+      "fullName": "THE STOCK MARKET",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON148",
+      "fullName": "LAND AND RESOURCE ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON155",
+      "fullName": "WOMEN&#39;S LABOR AND THE ECONOMY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON162",
+      "fullName": "MANAGERIAL ECONOMICS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON163",
+      "fullName": "ECONOMICS AND BUSINESS STRATEGY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON178",
+      "fullName": "INTERNATIONAL TRADE",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON183",
+      "fullName": "POPULATION AND DEVELOPMENT",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON200A",
+      "fullName": "MICROECONOMIC THEORY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON201A",
+      "fullName": "MACROECONOMIC THEORY",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON205A",
+      "fullName": "ECONOMETRIC METHODS I",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON244",
+      "fullName": "EMPIRICAL RESEARCH METHODS",
+      "group": 27
+    },
+    {
+      "nodeName": "ECON292",
+      "fullName": "CONCURRENT ANALYTICAL STUDIES",
+      "group": 27
+    },
+    {
+      "nodeName": "EDUC001",
+      "fullName": "IMAGINING TEACHING",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC005",
+      "fullName": "INTRIDUCTION TO EDUCATION STUDIES",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC010",
+      "fullName": "PRINCIPALS OF LEARNING STRATEGIES",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC042",
+      "fullName": "EDUCATION FOR CRITICAL CONSCIOUSNESS",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC044",
+      "fullName": "PRINCIPLES OF HEALTHFUL LIVING",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC050",
+      "fullName": "INTERCOLLEGIATE ATHLETICS AND AMERICAN HIGHER EDUCATION",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC100A",
+      "fullName": "TUTORIAL TEACHING: COMMUNITY OUTREACH",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC110S",
+      "fullName": "LEARNING THEORY AND PSYCHOLOGY IN EDUCATION",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC114",
+      "fullName": "COMPARATIVE INTERNATIONAL EDUCATION",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC116S",
+      "fullName": "THE EXCEPTIONAL CHILD",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC123",
+      "fullName": "TEACHER AND SCHOOL EFFECTS ON ACHIEVEMENT",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC142",
+      "fullName": "LANGUAGE AND SOCIETY",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC172S",
+      "fullName": "READING AND LANGUAGE DEVELOPMENT",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC174",
+      "fullName": "READING AND WRITING IN THE CONTENT AREAS",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC181",
+      "fullName": "INTRODUCTION TO APPLIED BEHAVIOR ANALYSIS",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC211A",
+      "fullName": "COGNITIVE DEVELOPMENT",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC212",
+      "fullName": "RESEARCH METHODS",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC214A",
+      "fullName": "INTRODUCTION TO QUANTITATIVE METHODS",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC215C",
+      "fullName": "STRUCTURAL EQUATION MODELING",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC241B",
+      "fullName": "INTRODUCTION TO QUALITATIVE METHODS",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC246M",
+      "fullName": "MULTICULTURL SPECIAL EDUCATION",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC246N",
+      "fullName": "EARLY INTERVENTION",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC281",
+      "fullName": "HISTORY OF EDUCATIONAL POLICY AND REFORM",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC295C",
+      "fullName": "CURRICULUM AND INSTRUCTION FOR STUDENTS WITH SEVERE DISABILITIES",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC320A",
+      "fullName": "INTEGRATING TECHNOLOGY INTO CLASSROOM PRACTICE",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC320B",
+      "fullName": "INTEGRATING TECHNOLOGY INTO CLASSROOM PRACTICE",
+      "group": 28
+    },
+    {
+      "nodeName": "EDUC320C",
+      "fullName": "INTEGRATING TECHNOLOGY INTO CLASSROOM PRACTICE",
+      "group": 28
+    },
+    {
+      "nodeName": "EE001A",
+      "fullName": "ENGINEERING CIRCUIT ANALYSIS I",
+      "group": 29
+    },
+    {
+      "nodeName": "EE001B",
+      "fullName": "ENGINEERING CIRCUIT ANALYSIS II",
+      "group": 29
+    },
+    {
+      "nodeName": "EE010",
+      "fullName": "INTRODUCTION TO ELECTRICAL ENGINEERING",
+      "group": 29
+    },
+    {
+      "nodeName": "EE100A",
+      "fullName": "ELECTRONIC CIRCUITS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE110A",
+      "fullName": "SIGNALS AND SYSTEMS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE115",
+      "fullName": "INTRODUCTION TO COMMUNICATION SYSTEMS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE120A",
+      "fullName": "LOGIC DESIGN",
+      "group": 29
+    },
+    {
+      "nodeName": "EE128",
+      "fullName": "DATA ACQUISITION, INSTRUMENTATION, AND PROCESS CONTROL",
+      "group": 29
+    },
+    {
+      "nodeName": "EE133",
+      "fullName": "SOLID-STATE ELECTRONICS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE138",
+      "fullName": "ELECTRICAL PROPERTIES OF MATERIALS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE139",
+      "fullName": "MAGNETIC MATERIALS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE141",
+      "fullName": "DIGITAL SIGNAL PROCESSING",
+      "group": 29
+    },
+    {
+      "nodeName": "EE155",
+      "fullName": "POWER SYSTEM ANALYSIS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE175A",
+      "fullName": "SENIOR DESIGN PROJECT",
+      "group": 29
+    },
+    {
+      "nodeName": "BUS001",
+      "fullName": "PERSONAL FINANCE",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS010",
+      "fullName": "INTRODUCTION TO BUSINESS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS020",
+      "fullName": "FINANCIAL ACCOUNTING AND REPORTING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS021",
+      "fullName": "GENERATION OF FINANCIAL ACCOUNTING INFORMATION",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS100W",
+      "fullName": "MANAGEMENT WRITING AND COMMUNICATION",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS101",
+      "fullName": "INFORMATION TECHNOLOGY MANAGEMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS102",
+      "fullName": "ETHICS AND LAW IN BUSINESS AND SOCIETY",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS103",
+      "fullName": "MARKETING AND DISTRIBUTION MANAGEMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS104",
+      "fullName": "DECISION ANALYSIS AND MANAGEMENT SCIENCE",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS105",
+      "fullName": "PRODUCTION AND OPERATIONS MANAGEMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS106",
+      "fullName": "INTRODUCTION TO FINANCIAL MANAGEMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS107",
+      "fullName": "ORGANIZATIONAL BEHAVIOR",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS108",
+      "fullName": "FINANCIAL EVALUATION AND MANAGERIAL ANALYSIS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS109",
+      "fullName": "COMPETITIVE AND STRATEGIC ANALYSIS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS111",
+      "fullName": "SERVICES MARKETING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS113",
+      "fullName": "MARKETING INSTITUTIONS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS114",
+      "fullName": "MARKETING IN A GLOBAL ENVIRONMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS117",
+      "fullName": "ADVERTISING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS118",
+      "fullName": "ELECTRONIC MARKETING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS129",
+      "fullName": "SUPPLY CHAIN MANAGEMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS131",
+      "fullName": "FIXED-INCOME SECURITIES",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS132",
+      "fullName": "FOUNDATIONS OF FINANCE",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS136",
+      "fullName": "INVESTMENTS: SECURITY ANALYSIS AND PORTFOLIO MANAGEMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS139",
+      "fullName": "REAL ESTATE INVESTMENTS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS148",
+      "fullName": "BUSINESS PLAN DEVELOPMENT",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS149",
+      "fullName": "ADVANCED TOPICS IN MANAGEMENT AND DECISION-MAKING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS150",
+      "fullName": "CORPORATE STRATEGIC ANALYSIS IN MULTI-BUSINESS FIRMS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS154",
+      "fullName": "BUSINESS LAW",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS155",
+      "fullName": "MANAGING HUMAN RESOURCES",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS157",
+      "fullName": "MANAGING WORK FORCE DIVERSITY",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS162",
+      "fullName": "MANAGERIAL ECONOMICS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS165A",
+      "fullName": "INTERMEDIATE FINANCIAL ACCOUNTING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS165C",
+      "fullName": "INTERMEDIATE FINANCIAL ACCOUNTING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS166",
+      "fullName": "ACCOUNTING INFORMATION SYSTEMS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS168A",
+      "fullName": "INDIVIDUAL TAXATION",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS169A",
+      "fullName": "AUDITING",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS171",
+      "fullName": "SYSTEMS ANALYSIS AND DESIGN",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS172",
+      "fullName": "INFORMATION ECONOMICS",
+      "group": 12
+    },
+    {
+      "nodeName": "BUS178",
+      "fullName": "INTERNATIONAL TRADE",
+      "group": 12
+    },
+    {
+      "nodeName": "CHFY001I",
+      "fullName": "CHASS F1RST HUMANITIES COURSE",
+      "group": 13
+    },
+    {
+      "nodeName": "CHFY003K",
+      "fullName": "CHASS F1RST SOCIAL SCIENCE COURSE",
+      "group": 13
+    },
+    {
+      "nodeName": "CBNS101",
+      "fullName": "FUNDAMENTALS OF CELL BIOLOGY",
+      "group": 14
+    },
+    {
+      "nodeName": "CBNS106",
+      "fullName": "INTRODUCTION TO NEUROSCIENCE",
+      "group": 14
+    },
+    {
+      "nodeName": "CBNS120L",
+      "fullName": "NEUROSCIENCE LABORATORY",
+      "group": 14
+    },
+    {
+      "nodeName": "CBNS121",
+      "fullName": "DEVELOPMENTAL NEUROSCIENCE",
+      "group": 14
+    },
+    {
+      "nodeName": "CBNS124",
+      "fullName": "SYSTEMS NEUROSCIENCE",
+      "group": 14
+    },
+    {
+      "nodeName": "CBNS128",
+      "fullName": "IMMUNOLOGY",
+      "group": 14
+    },
+    {
+      "nodeName": "EE201",
+      "fullName": "APPLIED QUANTUM MECHANICS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE204",
+      "fullName": "ADVANCED ELECTROMAGNETICS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE215",
+      "fullName": "STOCHASTIC PROCESSES",
+      "group": 29
+    },
+    {
+      "nodeName": "EE217",
+      "fullName": "GPU ARCHITECTURE AND PARALLEL PROGRAMMING",
+      "group": 29
+    },
+    {
+      "nodeName": "EE230",
+      "fullName": "MATHEMATICAL METHODS FOR ELECTRICAL ENGINEERS",
+      "group": 29
+    },
+    {
+      "nodeName": "EE235",
+      "fullName": "LINEAR SYSTEM THEORY",
+      "group": 29
+    },
+    {
+      "nodeName": "EE244",
+      "fullName": "COMPUTATIONAL LEARNING",
+      "group": 29
+    },
+    {
+      "nodeName": "EE250",
+      "fullName": "INFORMATION THEORY",
+      "group": 29
+    },
+    {
+      "nodeName": "EE272",
+      "fullName": "INTRODUCTION TO IMAGING BIOINSTRUMENTATION AND ANALYSIS",
+      "group": 29
+    },
+    {
+      "nodeName": "ENGR108",
+      "fullName": "TECHNOLOGY IN PREMODERN CIVILIZATIONS",
+      "group": 30
+    },
+    {
+      "nodeName": "ENGR118",
+      "fullName": "ENGINEERING MODELING AND ANALYSIS",
+      "group": 30
+    },
+    {
+      "nodeName": "ENGR160",
+      "fullName": "INTRODUCTION TO ENGINEERING OPTIMIZATION TECHNIQUES",
+      "group": 30
+    },
+    {
+      "nodeName": "ENGR180W",
+      "fullName": "TECHNICAL COMMUNICATIONS",
+      "group": 30
+    },
+    {
+      "nodeName": "ENGR203",
+      "fullName": "PRINCIPLES OF ENGINEERING MANAGEMENT\r\n\r\n",
+      "group": 30
+    },
+    {
+      "nodeName": "ENGL001A",
+      "fullName": "BEGINNING COMPOSITION",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL001B",
+      "fullName": "INTERMEDIATE COMPOSITION",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL001C",
+      "fullName": "APPLIED INTERMEDIATE COMPOSITION",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL004",
+      "fullName": "ENGLISH WRITING",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL012B",
+      "fullName": "INTRODUCTION TO FICTION",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL012O",
+      "fullName": "AMERICAN INDIAN LITERATURE",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL01PA",
+      "fullName": "BEGINNING COMPOSITION:  INTENSIVE",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL020A",
+      "fullName": "INTRODUCTION TO BRITISH LITERARY TRADITION",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL102W",
+      "fullName": "INTRODUCTION TO CRITICAL METHODS",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL117C",
+      "fullName": "SHAKESPEARE: TRAGEDY",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL120A",
+      "fullName": "NATIVE AMERICAN LITERATURE TO 1900",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL122O",
+      "fullName": "QUEER AMERICAN LITERATURE",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL125C",
+      "fullName": "THE DEVELOPMENT OF THE ENGLISH NOVEL: TWENTIETH CENTURY",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL127C",
+      "fullName": "AMERICAN POETRY:  LATER TWENTIETH CENTURY TO THE PRESENT",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL128J",
+      "fullName": "AUSTEN",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL129A",
+      "fullName": "ENGLISH AND AMERICAN DRAMA: ELIZABETHAN AND JACOBEAN DRAMA",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL130",
+      "fullName": "AMERICAN LITERATURE, 1620-1830",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL136T",
+      "fullName": "STUDIES IN LATINA AND LATINO LITERATURE",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL161A",
+      "fullName": "RESTORATION AND EIGHTEENTH-CENTURY ENGLISH LITERATURE: 1600-1730",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL179T",
+      "fullName": "STUDIES IN SCIENCE FICTION",
+      "group": 31
+    },
+    {
+      "nodeName": "ENGL200",
+      "fullName": "INTRODUCTION TO GRADUATE STUDY IN ENGLISH",
+      "group": 31
+    },
+    {
+      "nodeName": "ME175A",
+      "fullName": "PROFESSIONAL TOPICS IN ENGINEERING",
+      "group": 66
+    },
+    {
+      "nodeName": "ME175B",
+      "fullName": "MECHANICAL ENGINEERING DESIGN",
+      "group": 66
+    },
+    {
+      "nodeName": "ME200",
+      "fullName": "METHODS OF ENGINEERING ANALYSIS",
+      "group": 66
+    },
+    {
+      "nodeName": "ME235",
+      "fullName": "LINEAR SYSTEM THEORY",
+      "group": 66
+    },
+    {
+      "nodeName": "ME240A",
+      "fullName": "FUNDAMENTALS OF FLUID MECHANICS",
+      "group": 66
+    },
+    {
+      "nodeName": "ME245",
+      "fullName": "RADIATIVE HEAT TRANSFER",
+      "group": 66
+    },
+    {
+      "nodeName": "ME248",
+      "fullName": "INTERNAL COMBUSTION ENGINES",
+      "group": 66
+    },
+    {
+      "nodeName": "ME261",
+      "fullName": "THEORY OF ELASTICITY",
+      "group": 66
+    },
+    {
+      "nodeName": "ME270",
+      "fullName": "INTRODUCTION TO MICROELECTROMECHANICAL SYSTEMS",
+      "group": 66
+    },
+    {
+      "nodeName": "MCS001",
+      "fullName": "INTRODUCTION TO MEDIA AND CULTURAL STUDIES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS004",
+      "fullName": "INTRODUCTION TO MOVING IMAGES: FILM, VIDEO AND NEW MEDIA",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS005",
+      "fullName": "INTRODUCTION TO MEDIA STUDIES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS006",
+      "fullName": "INTRODUCTION TO CONTEMPORARY CRITICAL ISSUES IN ART",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS009",
+      "fullName": "MUSIC IN MOVIES AND TV",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS010",
+      "fullName": "INTRODUCTION TO CULTURAL STUDIES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS015",
+      "fullName": "INTRODUCTION TO TELEVISION STUDIES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS020",
+      "fullName": "INTRODUCTION TO FILM STUDIES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS066",
+      "fullName": "SCREENWRITING: HOW MOVIES WORK",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS111",
+      "fullName": "HISTORY OF MEDIA THEORY",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS120",
+      "fullName": "MAJOR FIGURES IN FILM AND MEDIA",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS124",
+      "fullName": "LATIN AMERICA, DEMOCRACY, AND THE MEDIA",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS129",
+      "fullName": "DISNEY: PRODUCING RACE, GENDER AND SEXUALITY",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS131",
+      "fullName": "INTERMEDIATE PHOTOGRAPHY AND DIGITAL TECHNOLOGY",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS147",
+      "fullName": "VISUAL CULTURE AND AFROFUTURISM",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS149",
+      "fullName": "BETWEEN THE PANELS: INTRODUCTION TO U.S AND IDENTITY IN VISUAL CULTURE",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS154",
+      "fullName": "MEDIA, GENDER, AND VIOLENCE",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS156E",
+      "fullName": "SOUTH ASIAN MEDIA AND CULTURES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCS184",
+      "fullName": "JAPANESE MEDIA AND CULTURAL STUDIES",
+      "group": 67
+    },
+    {
+      "nodeName": "MCBL120",
+      "fullName": "INTRODUCTION TO PLANT PATHOLOGY",
+      "group": 68
+    },
+    {
+      "nodeName": "MCBL121",
+      "fullName": "INTRODUCTORY MICROBIOLOGY",
+      "group": 68
+    },
+    {
+      "nodeName": "MCBL221",
+      "fullName": "MICROBIAL GENETICS",
+      "group": 68
+    },
+    {
+      "nodeName": "MCBL241",
+      "fullName": "SPECIAL TOPICS",
+      "group": 68
+    },
+    {
+      "nodeName": "MUS001",
+      "fullName": "BASIC MUSICAL CONCEPTS",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS007",
+      "fullName": "MUSIC IN MOVIES AND TV",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS014",
+      "fullName": "POPULAR MUSICS OF THE WORLD",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS017",
+      "fullName": "MUSIC OF MEXICO",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS030A",
+      "fullName": "HARMONY",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS031A",
+      "fullName": "MUSIC THEORY AND MUSICIANSHIP I",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS112A",
+      "fullName": "HISTORY OF WESTERN MUSIC: MIDDLE AGES TO 1700",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS131A",
+      "fullName": "MUSIC THEORY AND MUSICIANSHIP II",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS133",
+      "fullName": "INSTRUMENTATION",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS138",
+      "fullName": "FORM AND ANALYSIS IN WESTERN MUSIC",
+      "group": 69
+    },
+    {
+      "nodeName": "MUS249",
+      "fullName": "AUDIOVISUAL AND MULTIMEDIA COMPOSITION",
+      "group": 69
+    },
+    {
+      "nodeName": "BIOL100",
+      "fullName": "GENERAL ENTOMOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL102",
+      "fullName": "INTRODUCTORY GENETICS",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL104",
+      "fullName": "FOUNDATIONS OF PLANT BIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL105",
+      "fullName": "EVOLUTION",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL107A",
+      "fullName": "MOLECULAR BIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL108",
+      "fullName": "POPULATION GENETICS AND GENOMICS",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL116",
+      "fullName": "ECOLOGY AND CONSERVATION BIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL119",
+      "fullName": "INTRODUCTION TO GENOMICS AND BIOINFORMATICS",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL120",
+      "fullName": "INTRODUCTION TO PLANT PATHOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL121",
+      "fullName": "INTRODUCTORY MICROBIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL128",
+      "fullName": "IMMUNOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL134",
+      "fullName": "INTRODUCTION TO MYCOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL143",
+      "fullName": "PLANT PHYSIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL157",
+      "fullName": "PARASITOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL161A",
+      "fullName": "FUNCTIONAL ANATOMY OF THE VERTEBRATES",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL162",
+      "fullName": "INSECT BEHAVIOR",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL163",
+      "fullName": "EVOLUTIONARY ECOLOGY OF TERRESTRIAL VERTEBRATES",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL201",
+      "fullName": "MOLECULAR BIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL221",
+      "fullName": "MICROBIAL GENETICS",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL303",
+      "fullName": "PHILOSOPHY AND PEDAGOGY OF TEACHING UNDERGRADUATE LIFE SCIENCES",
+      "group": 9
+    },
+    {
+      "nodeName": "BMSC222E",
+      "fullName": "BASIC EPITHELIOLOGY",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222G",
+      "fullName": "REGULATION OF GENE EXPRESSION",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222J",
+      "fullName": "MICRBL PATHGNSIS&amp;HOST-PTH INTR",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222L",
+      "fullName": "CURRENT TOPICS IN CELL BIOLOGY",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222M",
+      "fullName": "HORMONE ACTION",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222N",
+      "fullName": "MECHANISMS OF STEROID HORMONES",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222O",
+      "fullName": "STEROID METABOLISM",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222P",
+      "fullName": "MOLECULAR PHARMACOLOGY",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222Q",
+      "fullName": "MECHANISMS OF CARCINOGENESIS",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222U",
+      "fullName": "TRANSPORT PHYSIOLOGY",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222X",
+      "fullName": "MUTAGENESIS&amp;GENETIC INSTABILTY",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC222Y",
+      "fullName": "CANCER GENETICS",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC231",
+      "fullName": "FOUNDATIONS OF MEDICINE I",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC232",
+      "fullName": "CARDIOVASCULAR, RENAL, AND RESPIRATORY SCIENCES I",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC236",
+      "fullName": "FOUNDATIONS OF MEDICINE II",
+      "group": 10
+    },
+    {
+      "nodeName": "BMSC260A",
+      "fullName": "TOPICS IN TRANSLATIONAL BIOMEDICAL RESEARCH",
+      "group": 10
+    },
+    {
+      "nodeName": "BPSC011",
+      "fullName": "PLANTS AND HUMAN AFFAIRS",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC104",
+      "fullName": "FOUNDATIONS OF PLANT BIOLOGY",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC143",
+      "fullName": "PLANT PHYSIOLOGY",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC146",
+      "fullName": "PLANT ECOLOGY",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC183",
+      "fullName": "PLANT BIOCHEMISTRY AND PHARMACOLOGY OF PLANT METABOLITES",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC200A",
+      "fullName": "PLANT BIOLOGY CORE",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC237",
+      "fullName": "PLANT CELL BIOLOGY",
+      "group": 11
+    },
+    {
+      "nodeName": "BPSC245",
+      "fullName": "ADVANCED PLANT ECOLOGY",
+      "group": 11
+    },
+    {
+      "nodeName": "CHEM08HA",
+      "fullName": "HONORS ORGANIC CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM109",
+      "fullName": "SURVEY OF PHYSICAL CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM110A",
+      "fullName": "PHYSICAL CHEMISTRY: CHEMICAL THERMODYNAMICS",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM125",
+      "fullName": "INSTRUMENTAL METHODS",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM135",
+      "fullName": "CHEMISTRY OF THE CLEAN AND POLLUTED ATMOSPHERE",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM136",
+      "fullName": "CHEMISTRY OF NATURAL WATERS",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM201A",
+      "fullName": "ADVANCED PHYSICAL CHEMISTRY: QUANTUM MECHANICS",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM201D",
+      "fullName": "ADVANCED PHYSICAL CHEMISTRY: THERMODYNAMICS",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM211A",
+      "fullName": "STRUCTURE AND MECHANISM IN ORGANIC CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM211E",
+      "fullName": "ADVANCED ORGANIC REACTIONS",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM221A",
+      "fullName": "ADVANCED ANALYTICAL CHEMISTRY: SEPARATION SCIENCE",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM221D",
+      "fullName": "ADVANCED ANALYTICAL CHEMISTRY: MASS SPECTROSCOPY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM231A",
+      "fullName": "STRUCTURE AND BONDING IN INORGANIC CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM280",
+      "fullName": "CHEMISTRY AND BIOCHEMISTRY OF GASEOUS MOLECULES",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM401",
+      "fullName": "PROFESSIONAL DEVELOPMENT IN CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHN001",
+      "fullName": "FIRST-YEAR CHINESE",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN003",
+      "fullName": "FIRST-YEAR CHINESE",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN004",
+      "fullName": "SECOND-YEAR CHINESE",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN020A",
+      "fullName": "FIRST-YEAR CHINESE FOR HERITAGE LEARNERS",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN020B",
+      "fullName": "FIRST-YEAR CHINESE FOR HERITAGE LEARNERS",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN101A",
+      "fullName": "THIRD-YEAR CHINESE",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN110M",
+      "fullName": "MODERN CHINESE FICTION",
+      "group": 19
+    },
+    {
+      "nodeName": "CHN112",
+      "fullName": "ASIAN PHILOSOPHY",
+      "group": 19
+    },
+    {
+      "nodeName": "CLA010C",
+      "fullName": "ANCIENT CIVILIZATION: ROME",
+      "group": 20
+    },
+    {
+      "nodeName": "CLA040",
+      "fullName": "CLASSICAL MYTHOLOGY",
+      "group": 20
+    },
+    {
+      "nodeName": "CLA102",
+      "fullName": "ANCIENT CIVILIZATIONS AND LATER IDENTITIES",
+      "group": 20
+    },
+    {
+      "nodeName": "CLA121",
+      "fullName": "MONARCHY",
+      "group": 20
+    },
+    {
+      "nodeName": "CPAC102",
+      "fullName": "ANCIENT CIVILIZATIONS AND LATER IDENTITIES",
+      "group": 21
+    },
+    {
+      "nodeName": "CPAC121",
+      "fullName": "MONARCHY",
+      "group": 21
+    },
+    {
+      "nodeName": "CPLT017A",
+      "fullName": "MASTERWORKS OF WORLD LITERATURE",
+      "group": 22
+    },
+    {
+      "nodeName": "CPLT063",
+      "fullName": "READING SOUTHEAST ASIAN STORIES",
+      "group": 22
+    },
+    {
+      "nodeName": "CPLT070",
+      "fullName": "INTRODUCTION TO AFRICAN LITERATURE",
+      "group": 22
+    },
+    {
+      "nodeName": "CPLT121",
+      "fullName": "CROSSING BORDERS: IMMIGRATION, MIGRATION, AND EXILE IN CINEMA",
+      "group": 22
+    },
+    {
+      "nodeName": "CPLT131",
+      "fullName": "MARX, NIETZSCHE, FREUD",
+      "group": 22
+    },
+    {
+      "nodeName": "CPLT215A",
+      "fullName": "CONTEMPORARY CRITICAL THEORY",
+      "group": 22
+    },
+    {
+      "nodeName": "CS005",
+      "fullName": "INTRODUCTION TO COMPUTER PROGRAMMING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS006",
+      "fullName": "EFFECTIVE USE OF THE WORLD WIDE WEB",
+      "group": 23
+    },
+    {
+      "nodeName": "BCH110A",
+      "fullName": "GENERAL BIOCHEMISTRY",
+      "group": 7
+    },
+    {
+      "nodeName": "BCH110C",
+      "fullName": "GENERAL BIOCHEMISTRY",
+      "group": 7
+    },
+    {
+      "nodeName": "BCH183",
+      "fullName": "PLANT BIOCHEMISTRY AND PHARMACOLOGY OF PLANT METABOLITES",
+      "group": 7
+    },
+    {
+      "nodeName": "BCH210",
+      "fullName": "BIOCHEMISTRY OF MACROMOLECULES",
+      "group": 7
+    },
+    {
+      "nodeName": "BCH240",
+      "fullName": "SPECIAL TOPICS IN BIOCHEMISTRY",
+      "group": 7
+    },
+    {
+      "nodeName": "BIEN010",
+      "fullName": "OVERVIEW OF BIOENGINEERING",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN101",
+      "fullName": "QUANTITATIVE BIOCHEMISTRY",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN110",
+      "fullName": "BIOMECHANICS OF THE HUMAN BODY",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN135",
+      "fullName": "BIOPHYSICS AND BIOTHERMODYNAMICS",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN136",
+      "fullName": "TISSUE ENGINEERING",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN138",
+      "fullName": "FUNDAMENTAL PRINCIPLES OF WOUND REPAIR",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN167",
+      "fullName": "MEDICAL DIAGNOSTICS",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN175A",
+      "fullName": "SENIOR DESIGN",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN223",
+      "fullName": "ENGINEERING ANALYSIS OF PHYSIOLOGICAL SYSTEMS",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN224",
+      "fullName": "CELLULAR AND MOLECULAR ENGINEERING",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN234",
+      "fullName": "ORTHOPAEDIC REGENERATIVE ENGINEERING AND MECHANOBIOLOGY",
+      "group": 8
+    },
+    {
+      "nodeName": "BIEN401",
+      "fullName": "FUNDAMENTALS OF PROPOSAL PREPARATION AND ETHICAL STANDARDS IN BIOENGINEERING",
+      "group": 8
+    },
+    {
+      "nodeName": "BIOL002",
+      "fullName": "CELLULAR BASIS OF LIFE",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL005A",
+      "fullName": "INTRODUCTION TO CELL AND MOLECULAR BIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL005B",
+      "fullName": "INTRODUCTION TO ORGANISMAL BIOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL005C",
+      "fullName": "INTRODUCTORY EVOLUTION AND ECOLOGY",
+      "group": 9
+    },
+    {
+      "nodeName": "BIOL030",
+      "fullName": "HUMAN REPRODUCTION AND SEXUAL BEHAVIOR",
+      "group": 9
+    },
+    {
+      "nodeName": "HIST020W",
+      "fullName": "WORLD HISTORY: TWENTIETH CENTURY",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST030",
+      "fullName": "CHE GUEVARA",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST035",
+      "fullName": "HISTORY OF NORTH AMERICAN INDIANS, 1491-1799",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST051",
+      "fullName": "EUROPE FROM PLAGUE TO REVOLUTION, 1400-1750",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST099W",
+      "fullName": "THE HISTORIAN&#39;S WORKSHOP",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST108",
+      "fullName": "TECHNOLOGY IN PREMODERN CIVILIZATIONS",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST130A",
+      "fullName": "HISTORY OF CHRISTIANITY: ORIGINS TO THE REFORMATION",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST139",
+      "fullName": "AFRICAN: FICTION, FILM &amp; SCIFI",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST180",
+      "fullName": "EARLY TRADITIONAL CHINA",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST205B",
+      "fullName": "READING SEMINAR IN ENGLISH HISTORY: 1760 TO THE PRESENT",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST209B",
+      "fullName": "READING SEMINAR IN MODERN RUSSIA: SOVIET HISTORY",
+      "group": 48
+    },
+    {
+      "nodeName": "HIST222",
+      "fullName": "READING SEMINAR IN LATE ANTIQUITY",
+      "group": 48
+    },
+    {
+      "nodeName": "HISE111",
+      "fullName": "ANCIENT GREECE FROM THE BRONZE AGE TO THE PERSIAN WARS",
+      "group": 49
+    },
+    {
+      "nodeName": "HISE120",
+      "fullName": "EARLY MIDDLE AGES",
+      "group": 49
+    },
+    {
+      "nodeName": "HISE123",
+      "fullName": "LAW AND SOCIETY IN MEDIEVAL EUROPE",
+      "group": 49
+    },
+    {
+      "nodeName": "HISE132",
+      "fullName": "THE REFORMATION",
+      "group": 49
+    },
+    {
+      "nodeName": "HISE145",
+      "fullName": "WORLD WAR I",
+      "group": 49
+    },
+    {
+      "nodeName": "HISE156",
+      "fullName": "STUART BRITAIN: A CENTURY OF REVOLUTION, 1603-1714",
+      "group": 49
+    },
+    {
+      "nodeName": "HISA110A",
+      "fullName": "COLONIAL AMERICA",
+      "group": 50
+    },
+    {
+      "nodeName": "HISA114",
+      "fullName": "THE AMERICAN CIVIL WAR",
+      "group": 50
+    },
+    {
+      "nodeName": "HISA125E",
+      "fullName": "UNITED STATES IN GLOBAL 1960S",
+      "group": 50
+    },
+    {
+      "nodeName": "HISA125G",
+      "fullName": "TOPICS IN AMERICAN SOCIETY AND CULTURE: UNITED STATES AND THE PHILIPPINES",
+      "group": 50
+    },
+    {
+      "nodeName": "HISA146",
+      "fullName": "HISTORY OF NATIVE AMERICAN WOMEN",
+      "group": 50
+    },
+    {
+      "nodeName": "HNPG002A",
+      "fullName": "PRINCIPLES OF CIVIC ENGAGEMENT",
+      "group": 51
+    },
+    {
+      "nodeName": "HNPG150",
+      "fullName": "RESEARCH AND CREATIVE ACTIVITY ACROSS THE DISCIPLINES",
+      "group": 51
+    },
+    {
+      "nodeName": "HASS001",
+      "fullName": "STEP-BY-STEP TO COLLEGE SUCCESS FOR FIRST YEAR STUDENTS",
+      "group": 52
+    },
+    {
+      "nodeName": "ITAL001",
+      "fullName": "ELEMENTARY ITALIAN",
+      "group": 53
+    },
+    {
+      "nodeName": "ITAL004",
+      "fullName": "INTERMEDIATE ITALIAN",
+      "group": 53
+    },
+    {
+      "nodeName": "ITAL020A",
+      "fullName": "ITALIAN FOR SPANISH SPEAKERS",
+      "group": 53
+    },
+    {
+      "nodeName": "ITAL042",
+      "fullName": "ITALIAN AMERICANS: VOICES AND VISIONS",
+      "group": 53
+    },
+    {
+      "nodeName": "JPN001",
+      "fullName": "FIRST-YEAR JAPANESE",
+      "group": 54
+    },
+    {
+      "nodeName": "JPN003",
+      "fullName": "FIRST-YEAR JAPANESE",
+      "group": 54
+    },
+    {
+      "nodeName": "JPN004",
+      "fullName": "SECOND-YEAR JAPANESE",
+      "group": 54
+    },
+    {
+      "nodeName": "JPN034",
+      "fullName": "INTRODUCTION TO CLASSICAL JAPANESE LITERATURE",
+      "group": 54
+    },
+    {
+      "nodeName": "JPN101A",
+      "fullName": "THIRD-YEAR JAPANESE",
+      "group": 54
+    },
+    {
+      "nodeName": "JPN153E",
+      "fullName": "SUPERNATURAL JAPAN",
+      "group": 54
+    },
+    {
+      "nodeName": "JPN184",
+      "fullName": "JAPANESE MEDIA AND CULTURAL STUDIES",
+      "group": 54
+    },
+    {
+      "nodeName": "KOR001",
+      "fullName": "FIRST-YEAR KOREAN",
+      "group": 55
+    },
+    {
+      "nodeName": "KOR004",
+      "fullName": "SECOND-YEAR KOREAN",
+      "group": 55
+    },
+    {
+      "nodeName": "KOR020A",
+      "fullName": "FIRST-YEAR KOREAN FOR HERITAGE LEARNERS",
+      "group": 55
+    },
+    {
+      "nodeName": "KOR112",
+      "fullName": "MODERN KOREAN LITERATURE",
+      "group": 55
+    },
+    {
+      "nodeName": "LATN001",
+      "fullName": "INTRODUCTION TO LATIN",
+      "group": 57
+    },
+    {
+      "nodeName": "LATN004",
+      "fullName": "INTERMEDIATE LATIN",
+      "group": 57
+    },
+    {
+      "nodeName": "LNST017",
+      "fullName": "MUSIC OF MEXICO",
+      "group": 58
+    },
+    {
+      "nodeName": "LNST028",
+      "fullName": "ART AND ARCHITECTURE OF LATIN AMERICA",
+      "group": 58
+    },
+    {
+      "nodeName": "LNST120",
+      "fullName": "MAJOR TOPICS IN HISPANIC LITERATURE: LATIN AMERICA",
+      "group": 58
+    },
+    {
+      "nodeName": "LWSO100",
+      "fullName": "INTRODUCTION TO THE STUDY OF LAW AND SOCIETY",
+      "group": 59
+    },
+    {
+      "nodeName": "LGBS122O",
+      "fullName": "QUEER AMERICAN LITERATURE",
+      "group": 60
+    },
+    {
+      "nodeName": "LING020",
+      "fullName": "LANGUAGE AND LINGUISTICS",
+      "group": 61
+    },
+    {
+      "nodeName": "LING160E",
+      "fullName": "HISTORICAL LINGUISITCS",
+      "group": 61
+    },
+    {
+      "nodeName": "LING160I",
+      "fullName": "SOCIOLINGUISTICS",
+      "group": 61
+    },
+    {
+      "nodeName": "MGT200",
+      "fullName": "ORGANIZATIONAL BEHAVIOR AND THEORY",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT201",
+      "fullName": "QUANTITATIVE ANALYSIS",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT202",
+      "fullName": "FINANCIAL MANAGEMENT",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT204",
+      "fullName": "COST AND MANAGEMENT ACCOUNTING",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT205",
+      "fullName": "INFORMATION SYSTEMS",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT211",
+      "fullName": "FINANCIAL ACCOUNTING",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT221",
+      "fullName": "DECISION MAKING UNDER UNCERTAINTY",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT222",
+      "fullName": "STRATEGIC ORGANIZATION CHANGE",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT228",
+      "fullName": "CONSUMER BEHAVIOR",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT229",
+      "fullName": "ACCOUNTING ETHICS AND PROFESSIONAL RESPONSIBILITIES",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT231",
+      "fullName": "CORPORATE FINANCE",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT240A",
+      "fullName": "TAXATION",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT241",
+      "fullName": "ACCOUNTING SYSTEMS AND CONTROL",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT246",
+      "fullName": "ENTREPRENEURIAL MANAGEMENT",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT400A",
+      "fullName": "FINANCIAL ACCOUNTING PRINCIPLES AND PRACTICES I",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT400D",
+      "fullName": "TAXATION OF INDIVIDUALS AND BUSINESS ENTITIES",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT400E",
+      "fullName": "AUDITING AND ASSURANCE",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT403",
+      "fullName": "REVIEW OF QUANTITATIVE METHODS FOR MANAGEMENT",
+      "group": 63
+    },
+    {
+      "nodeName": "MGT404",
+      "fullName": "COMMUNICATIONS, LEADERSHIP, TEAMS, AND ETHICS",
+      "group": 63
+    },
+    {
+      "nodeName": "MSE001",
+      "fullName": "FUNDAMENTALS OF MATERIALS SCIENCE AND ENGINEERING",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE161",
+      "fullName": "ANALYTICAL MATERIALS CHARACTERIZATION",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE200",
+      "fullName": "GRADUATE STUDIES IN MATERIALS SCIENCE AND ENGINEERING",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE201",
+      "fullName": "THERMODYNAMIC FOUNDATIONS OF MATERIALS",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE205",
+      "fullName": "ADVANCED PHYSICAL CHEMISTRY: THERMODYNAMICS",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE207",
+      "fullName": "APPLIED QUANTUM MECHANICS",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE210",
+      "fullName": "CRYSTAL STRUCTURE AND BONDING",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE214",
+      "fullName": "CONDENSED MATTER PHYSICS",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE238",
+      "fullName": "INTRODUCTION TO MICROELECTROMECHANICAL SYSTEMS",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE245B",
+      "fullName": "STRUCTURE AND BONDING IN INORGANIC CHEMISTRY",
+      "group": 64
+    },
+    {
+      "nodeName": "MSE246",
+      "fullName": "CELLULAR AND MOLECULAR ENGINEERING",
+      "group": 64
+    },
+    {
+      "nodeName": "CMDB201",
+      "fullName": "MOLECULAR BIOLOGY",
+      "group": 15
+    },
+    {
+      "nodeName": "CMDB203",
+      "fullName": "ADVANCED GENETIC ANALYSIS IN MODEL ORGANISMS",
+      "group": 15
+    },
+    {
+      "nodeName": "CMDB211",
+      "fullName": "LABORATORY IN HUMAN EMBRYONIC STEM CELL CULTURE",
+      "group": 15
+    },
+    {
+      "nodeName": "CHE100",
+      "fullName": "ENGINEERING THERMODYNAMICS",
+      "group": 16
+    },
+    {
+      "nodeName": "CHE110A",
+      "fullName": "CHEMICAL PROCESS ANALYSIS",
+      "group": 16
+    },
+    {
+      "nodeName": "CHE114",
+      "fullName": "APPLIED FLUID MECHANICS",
+      "group": 16
+    },
+    {
+      "nodeName": "CHE117",
+      "fullName": "SEPARATION PROCESSES",
+      "group": 16
+    },
+    {
+      "nodeName": "CHE124",
+      "fullName": "BIOCHEMICAL ENGINEERING PRINCIPLES",
+      "group": 16
+    },
+    {
+      "nodeName": "CEE010",
+      "fullName": "INTRODUCTION TO CHEMICAL AND ENVIRONMENTAL ENGINEERING",
+      "group": 17
+    },
+    {
+      "nodeName": "CEE135",
+      "fullName": "CHEMISTRY OF MATERIALS",
+      "group": 17
+    },
+    {
+      "nodeName": "CEE200",
+      "fullName": "ADVANCED ENGINEERING COMPUTATION",
+      "group": 17
+    },
+    {
+      "nodeName": "CEE206",
+      "fullName": "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS",
+      "group": 17
+    },
+    {
+      "nodeName": "CEE225",
+      "fullName": "PHYSICAL-CHEMICAL SEPARATION PROCESSES",
+      "group": 17
+    },
+    {
+      "nodeName": "CEE236",
+      "fullName": "ENERGY: PRDUCTION, UES, ECONOMICS, AND SUSTAINABILITY",
+      "group": 17
+    },
+    {
+      "nodeName": "CEE243",
+      "fullName": "ADVANCED WATER TREATMENT TECHNOLOGIES",
+      "group": 17
+    },
+    {
+      "nodeName": "CHEM001A",
+      "fullName": "GENERAL CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM001C",
+      "fullName": "GENERAL CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM001W",
+      "fullName": "PREPARATION FOR GENERAL CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM008A",
+      "fullName": "ORGANIC CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM008C",
+      "fullName": "ORGANIC CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "CHEM01HA",
+      "fullName": "HONORS GENERAL CHEMISTRY",
+      "group": 18
+    },
+    {
+      "nodeName": "SOC002S",
+      "fullName": "SOCIAL PROBLEMS",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC003",
+      "fullName": "THEORETICAL PERSPECTIVES IN SOCIOLOGY\r\n",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC004",
+      "fullName": "METHODS OF SOCIOLOGICAL INQUIRY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC005",
+      "fullName": "STATISTICAL ANALYSIS",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC010",
+      "fullName": "THE SOCIOLOGICAL IMAGINATION",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC030",
+      "fullName": "IDENTITY AND SOCIETY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC031",
+      "fullName": "COUPLES AND FAMILIES",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC112S",
+      "fullName": "SOCIOLOGY OF THE LABOR MOVEMENT",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC130",
+      "fullName": "RACE AND ETHNIC RELATIONS",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC131F",
+      "fullName": "BLACK AMERICANS",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC135S",
+      "fullName": "CONFLICT",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC142",
+      "fullName": "SOCIOLOGY OF THE FAMILY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC159",
+      "fullName": "SOCIOLOGY OF LAW",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC163",
+      "fullName": "SOCIAL FORCES AND THE EDUCATIONAL CONDITION OF CHICANAS/OS",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC169",
+      "fullName": "MODERN SOCIOLOGICAL THEORY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC184",
+      "fullName": "ENVIRONMENTAL SOCIOLOGY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC202A",
+      "fullName": "HISTORY OF SOCIOLOGICAL THEORY",
+      "group": 84
+    },
+    {
+      "nodeName": "SOC232",
+      "fullName": "PROSEMINAR IN SOCIOLOGY",
+      "group": 84
+    },
+    {
+      "nodeName": "SEAS063",
+      "fullName": "READING SOUTHEAST ASIAN STORIES",
+      "group": 86
+    },
+    {
+      "nodeName": "SPN001",
+      "fullName": "ELEMENTARY SPANISH",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN002",
+      "fullName": "ELEMENTARY SPANISH",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN003",
+      "fullName": "ELEMENTARY SPANISH",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN004",
+      "fullName": "INTERMEDIATE SPANISH",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN005",
+      "fullName": "INTERMEDIATE SPANISH",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN006",
+      "fullName": "INTERMEDIATE SPANISH",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN101A",
+      "fullName": "ADVANCED ORAL AND WRITTEN COMPOSITION",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN102B",
+      "fullName": "INTRODUCTION TO LATIN AMERICAN CULTURE",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN105",
+      "fullName": "THE PHONOLOGY OF THE SPANISH LANGUAGE",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN109A",
+      "fullName": "SPANISH FOR THE NATIVE SPEAKER",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN109B",
+      "fullName": "SPANISH FOR THE NATIVE SPEAKER",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN110",
+      "fullName": "INTRODUCTION TO LITERARY CRITICISM AND ANALYSIS",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN120A",
+      "fullName": "MAJOR TOPICS IN HISPANIC LITERATURE",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN120C",
+      "fullName": "MAJOR TOPICS IN HISPANIC LITERATURE: LATIN AMERICA",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN141",
+      "fullName": "CERVANTES",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN180A",
+      "fullName": "SURVEY OF SPANISH LITERATURE, MIDDLE AGES-1699",
+      "group": 87
+    },
+    {
+      "nodeName": "SPN181B",
+      "fullName": "SURVEY OF SPANISH AMERICAN LITERATURE, MODERNISMO  TO THE PRESENT",
+      "group": 87
+    },
+    {
+      "nodeName": "STAT048",
+      "fullName": "STATISTICS FOR BUSINESS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT100A",
+      "fullName": "INTRODUCTION TO STATISTICS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT100B",
+      "fullName": "INTRODUCTION TO STATISTICS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT104",
+      "fullName": "DECISION ANALYSIS AND MANAGEMENT SCIENCE",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT130",
+      "fullName": "SAMPLING SURVEYS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT146",
+      "fullName": "STATISTICAL FORECASTING TECHNIQUES",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT147",
+      "fullName": "INTRODUCTION TO STATISTICAL COMPUTING",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT155",
+      "fullName": "PROBABILITY AND STATISTICS FOR SCIENCE AND ENGINEERING",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT160A",
+      "fullName": "ELEMENTS OF PROBABILITY AND STATISTICAL THEORY",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT170A",
+      "fullName": "REGRESSION ANALYSIS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT201A",
+      "fullName": "THEORY OF PROBABILITY AND STATISTICS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT202A",
+      "fullName": "REGRESSION, ANOVA, AND DESIGN",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT206",
+      "fullName": "STATISTICAL COMPUTING",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT210A",
+      "fullName": "ADVANCED THEORY OF PROBABILITY AND STATISTICS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT231A",
+      "fullName": "STATISTICS FOR BIOLOGICAL SCIENCES",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT240",
+      "fullName": "NONPARAMETRIC METHODS",
+      "group": 88
+    },
+    {
+      "nodeName": "STAT293",
+      "fullName": "METHODS IN APPLIED STATISTICS",
+      "group": 88
+    },
+    {
+      "nodeName": "TFDP010",
+      "fullName": "INTRODUCTION TO ACTING",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP020",
+      "fullName": "PRODUCTION TECHNIQUEST FOR THEATRE, FILM, AND TELEVISION",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP021",
+      "fullName": "INTRODUCTION TO LATINA/O CULTURAL PRODUCTION ON STAGE AND SCREEN",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP022",
+      "fullName": "SHAKESPEARE IN PERFORMANCE",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP050S",
+      "fullName": "PUBLIC SPEAKING",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP066",
+      "fullName": "SCREENWRITING: HOW MOVIES WORK",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP099",
+      "fullName": "INTRODUCTION TO THE THEATRE DEPARTMENT",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP101",
+      "fullName": "INTRODUCTION TO DESIGN",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP109",
+      "fullName": "ACTING: THE PROCESS",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP110A",
+      "fullName": "ACTING: FUNDAMENTALS",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP113N",
+      "fullName": "MVEMNT FOR ACTORS &amp; PERFORMERS - NONVERBAL THEATRE",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP120A",
+      "fullName": "LITERATURE AND HISTORY OF THE THEATRE: THE CLASSICAL PERIOD THROUGH THE ITALIAN RENAISSANCE",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP125S",
+      "fullName": "AMERICAN MUSICAL THEATRE",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP150A",
+      "fullName": "DIRECTING",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP154",
+      "fullName": "INTRODUCTION TO FILMMAKING",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP155",
+      "fullName": "INTRODUCTION TO DIGITAL FILM PRODUCTION",
+      "group": 89
+    },
+    {
+      "nodeName": "TFDP166A",
+      "fullName": "SCREENWRITING: INTRODUCTION",
+      "group": 89
+    },
+    {
+      "nodeName": "URST014",
+      "fullName": "POPULAR MUSICS OF THE WORLD",
+      "group": 90
+    },
+    {
+      "nodeName": "VNM001",
+      "fullName": "ELEMENTARY VIETNAMESE",
+      "group": 91
+    },
+    {
+      "nodeName": "VNM004",
+      "fullName": "INTERMEDIATE VIETNAMESE",
+      "group": 91
+    },
+    {
+      "nodeName": "PHYS002B",
+      "fullName": "GENERAL PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS018",
+      "fullName": "ENERGY AND THE ENVIRONMENT",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS037",
+      "fullName": "THE ORIGINS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS039",
+      "fullName": "ADVENTURES IN PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS040A",
+      "fullName": "GENERAL PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS040C",
+      "fullName": "GENERAL PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS041A",
+      "fullName": "INTRODUCTORY PHYSICS FOR PHYSICS MAJORS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS111",
+      "fullName": "ASTROPHYSICS AND STELLAR ASTRONOMY",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS130A",
+      "fullName": "CLASSICAL MECHANICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS135A",
+      "fullName": "ELECTROMAGNETISM",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS139L",
+      "fullName": "ELECTRONICS FOR SCIENTISTS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS150A",
+      "fullName": "INTRODUCTION TO CONDENSED MATTER PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS156A",
+      "fullName": "QUANTUM MECHANICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS205",
+      "fullName": "CLASSICAL MECHANICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS209A",
+      "fullName": "QUANTUM ELECTRONICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS210A",
+      "fullName": "ELECTROMAGNETIC THEORY",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS218",
+      "fullName": "FUNDAMENTALS OF ASTROPHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS221A",
+      "fullName": "QUANTUM MECHANICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS225A",
+      "fullName": "ELEMENTARY PARTICLES",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS230A",
+      "fullName": "ADVANCED QUANTUM MECHANICS AND QUANTUM THEORY OF FIELDS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS231",
+      "fullName": "METHODS OF THEORETICAL PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS236",
+      "fullName": "ADVANCED IMAGING TECHNIQUES",
+      "group": 75
+    },
+    {
+      "nodeName": "PHYS240A",
+      "fullName": "CONDENSED MATTER PHYSICS",
+      "group": 75
+    },
+    {
+      "nodeName": "PLPA010",
+      "fullName": "MICROBES AND SOCIETY: A WINDOW INTO THE MICROBIAL WORLD AROUND US",
+      "group": 76
+    },
+    {
+      "nodeName": "PLPA120",
+      "fullName": "INTRODUCTION TO PLANT PATHOLOGY",
+      "group": 76
+    },
+    {
+      "nodeName": "PLPA134",
+      "fullName": "INTRODUCTION TO MYCOLOGY",
+      "group": 76
+    },
+    {
+      "nodeName": "PLPA210",
+      "fullName": "INTRODUCTION TO PLANT PATHOLOGY",
+      "group": 76
+    },
+    {
+      "nodeName": "PLPA226",
+      "fullName": "MICROBIAL GENETICS",
+      "group": 76
+    },
+    {
+      "nodeName": "PLPA234",
+      "fullName": "INTRODUCTION TO MYCOLOGY",
+      "group": 76
+    },
+    {
+      "nodeName": "PLPA241",
+      "fullName": "SPECIAL TOPICS",
+      "group": 76
+    }
+  ],
+  "edges": [
+    {
+      "source": 4,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 26,
+      "target": 17,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 26,
+      "target": 18,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 27,
+      "target": 17,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 27,
+      "target": 18,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 28,
+      "target": 19,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 92,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 98,
+      "target": 94,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 101,
+      "target": 96,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 103,
+      "target": 96,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 105,
+      "target": 94,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 113,
+      "target": 112,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 124,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 128,
+      "target": 126,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 129,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 129,
+      "target": 124,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 130,
+      "target": 127,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 131,
+      "target": 125,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 132,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 133,
+      "target": 126,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 133,
+      "target": 129,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 134,
+      "target": 127,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 134,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 134,
+      "target": 129,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 135,
+      "target": 130,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 136,
+      "target": 135,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 136,
+      "target": 130,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 137,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 137,
+      "target": 129,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 137,
+      "target": 134,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 138,
+      "target": 133,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 138,
+      "target": 134,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 139,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 139,
+      "target": 129,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 140,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 140,
+      "target": 129,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 141,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 142,
+      "target": 128,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 143,
+      "target": 134,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 144,
+      "target": 135,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 150,
+      "target": 133,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 150,
+      "target": 139,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 164,
+      "target": 162,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 172,
+      "target": 168,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 173,
+      "target": 168,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 174,
+      "target": 168,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 196,
+      "target": 187,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 196,
+      "target": 188,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 200,
+      "target": 191,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 200,
+      "target": 192,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 201,
+      "target": 187,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 227,
+      "target": 187,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 227,
+      "target": 218,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 228,
+      "target": 217,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 228,
+      "target": 219,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 228,
+      "target": 220,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 235,
+      "target": 234,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 236,
+      "target": 47,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 240,
+      "target": 239,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 247,
+      "target": 244,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 248,
+      "target": 244,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 248,
+      "target": 243,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 255,
+      "target": 254,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 259,
+      "target": 256,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 259,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 260,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 261,
+      "target": 257,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 261,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 262,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 263,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 263,
+      "target": 256,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 263,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 263,
+      "target": 257,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 263,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 265,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 265,
+      "target": 256,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 265,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 265,
+      "target": 257,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 265,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 266,
+      "target": 257,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 266,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 268,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 268,
+      "target": 265,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 269,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 269,
+      "target": 265,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 270,
+      "target": 265,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 271,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 271,
+      "target": 265,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 272,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 273,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 273,
+      "target": 265,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 273,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 273,
+      "target": 260,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 274,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 274,
+      "target": 262,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 274,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 275,
+      "target": 262,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 275,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 276,
+      "target": 273,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 285,
+      "target": 269,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 286,
+      "target": 278,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 289,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 289,
+      "target": 288,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 290,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 290,
+      "target": 288,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 293,
+      "target": 289,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 294,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 296,
+      "target": 291,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 309,
+      "target": 124,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 309,
+      "target": 263,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 309,
+      "target": 130,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 309,
+      "target": 303,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 311,
+      "target": 300,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 311,
+      "target": 301,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 311,
+      "target": 302,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 311,
+      "target": 303,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 311,
+      "target": 304,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 316,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 321,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 321,
+      "target": 264,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 322,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 323,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 323,
+      "target": 258,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 324,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 325,
+      "target": 321,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 325,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 325,
+      "target": 319,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 326,
+      "target": 261,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 326,
+      "target": 269,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 328,
+      "target": 318,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 328,
+      "target": 319,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 329,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 329,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 330,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 331,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 331,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 331,
+      "target": 321,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 332,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 332,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 333,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 334,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 335,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 336,
+      "target": 321,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 337,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 338,
+      "target": 325,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 338,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 341,
+      "target": 323,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 341,
+      "target": 324,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 341,
+      "target": 258,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 341,
+      "target": 259,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 371,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 372,
+      "target": 371,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 374,
+      "target": 372,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 375,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 375,
+      "target": 372,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 377,
+      "target": 127,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 379,
+      "target": 374,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 383,
+      "target": 372,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 388,
+      "target": 387,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 390,
+      "target": 122,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 393,
+      "target": 122,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 394,
+      "target": 393,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 395,
+      "target": 387,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 395,
+      "target": 318,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 395,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 395,
+      "target": 321,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 397,
+      "target": 387,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 399,
+      "target": 392,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 400,
+      "target": 392,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 401,
+      "target": 392,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 402,
+      "target": 392,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 403,
+      "target": 392,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 404,
+      "target": 394,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 405,
+      "target": 395,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 405,
+      "target": 331,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 406,
+      "target": 387,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 406,
+      "target": 321,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 406,
+      "target": 322,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 406,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 406,
+      "target": 324,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 407,
+      "target": 406,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 407,
+      "target": 395,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 407,
+      "target": 331,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 408,
+      "target": 395,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 408,
+      "target": 331,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 413,
+      "target": 396,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 415,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 416,
+      "target": 388,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 418,
+      "target": 390,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 418,
+      "target": 397,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 419,
+      "target": 397,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 421,
+      "target": 390,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 422,
+      "target": 392,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 422,
+      "target": 319,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 423,
+      "target": 323,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 426,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 429,
+      "target": 427,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 430,
+      "target": 427,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 431,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 439,
+      "target": 434,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 442,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 442,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 443,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 443,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 443,
+      "target": 288,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 468,
+      "target": 467,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 475,
+      "target": 291,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 489,
+      "target": 19,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 495,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 495,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 495,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 495,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 496,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 496,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 496,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 496,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 504,
+      "target": 499,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 505,
+      "target": 503,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 507,
+      "target": 503,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 508,
+      "target": 503,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 513,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 513,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 513,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 513,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 513,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 514,
+      "target": 267,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 514,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 514,
+      "target": 257,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 514,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 515,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 515,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 515,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 516,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 516,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 516,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 517,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 517,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 517,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 517,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 517,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 518,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 518,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 518,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 518,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 519,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 519,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 519,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 519,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 520,
+      "target": 47,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 521,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 521,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 521,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 521,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 522,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 522,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 522,
+      "target": 512,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 522,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 522,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 523,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 523,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 523,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 523,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 524,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 524,
+      "target": 316,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 524,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 524,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 525,
+      "target": 510,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 525,
+      "target": 234,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 526,
+      "target": 267,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 526,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 526,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 527,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 527,
+      "target": 514,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 528,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 528,
+      "target": 514,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 545,
+      "target": 543,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 548,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 548,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 548,
+      "target": 512,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 548,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 548,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 548,
+      "target": 547,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 549,
+      "target": 512,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 549,
+      "target": 547,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 549,
+      "target": 516,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 550,
+      "target": 47,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 552,
+      "target": 514,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 552,
+      "target": 522,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 552,
+      "target": 548,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 552,
+      "target": 47,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 552,
+      "target": 426,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 553,
+      "target": 260,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 555,
+      "target": 259,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 555,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 556,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 556,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 558,
+      "target": 554,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 564,
+      "target": 557,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 592,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 592,
+      "target": 47,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 593,
+      "target": 591,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 593,
+      "target": 47,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 594,
+      "target": 555,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 594,
+      "target": 591,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 594,
+      "target": 592,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 595,
+      "target": 591,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 595,
+      "target": 592,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 597,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 597,
+      "target": 554,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 598,
+      "target": 123,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 598,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 599,
+      "target": 597,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 599,
+      "target": 262,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 599,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 603,
+      "target": 596,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 606,
+      "target": 598,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 610,
+      "target": 609,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 611,
+      "target": 609,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 611,
+      "target": 610,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 611,
+      "target": 258,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 666,
+      "target": 665,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 671,
+      "target": 664,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 673,
+      "target": 667,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 674,
+      "target": 666,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 675,
+      "target": 669,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 676,
+      "target": 667,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 677,
+      "target": 666,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 688,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 691,
+      "target": 291,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 694,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 694,
+      "target": 514,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 694,
+      "target": 591,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 695,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 697,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 698,
+      "target": 260,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 699,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 699,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 699,
+      "target": 698,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 699,
+      "target": 241,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 701,
+      "target": 591,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 701,
+      "target": 519,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 701,
+      "target": 496,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 703,
+      "target": 554,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 704,
+      "target": 442,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 711,
+      "target": 253,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 711,
+      "target": 254,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 712,
+      "target": 710,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 715,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 716,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 717,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 718,
+      "target": 717,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 723,
+      "target": 718,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 724,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 725,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 726,
+      "target": 718,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 728,
+      "target": 91,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 729,
+      "target": 716,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 729,
+      "target": 718,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 740,
+      "target": 739,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 742,
+      "target": 661,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 742,
+      "target": 740,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 744,
+      "target": 743,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 745,
+      "target": 740,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 745,
+      "target": 743,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 745,
+      "target": 744,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 746,
+      "target": 745,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 747,
+      "target": 745,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 748,
+      "target": 745,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 749,
+      "target": 745,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 750,
+      "target": 745,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 751,
+      "target": 122,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 751,
+      "target": 252,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 751,
+      "target": 253,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 751,
+      "target": 255,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 751,
+      "target": 256,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 751,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 752,
+      "target": 253,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 752,
+      "target": 255,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 752,
+      "target": 256,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 752,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 753,
+      "target": 752,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 754,
+      "target": 122,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 754,
+      "target": 751,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 754,
+      "target": 752,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 755,
+      "target": 753,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 756,
+      "target": 753,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 757,
+      "target": 752,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 758,
+      "target": 260,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 759,
+      "target": 260,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 761,
+      "target": 262,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 762,
+      "target": 760,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 765,
+      "target": 753,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 766,
+      "target": 759,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 783,
+      "target": 159,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 783,
+      "target": 484,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 784,
+      "target": 159,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 784,
+      "target": 484,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 788,
+      "target": 316,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 788,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 788,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 792,
+      "target": 259,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 792,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 792,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 793,
+      "target": 260,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 794,
+      "target": 258,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 795,
+      "target": 262,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 795,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 796,
+      "target": 260,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 796,
+      "target": 261,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 796,
+      "target": 316,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 796,
+      "target": 792,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 796,
+      "target": 794,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 797,
+      "target": 262,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 797,
+      "target": 266,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 797,
+      "target": 788,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 797,
+      "target": 793,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 798,
+      "target": 788,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 798,
+      "target": 793,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 799,
+      "target": 788,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 800,
+      "target": 262,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 800,
+      "target": 266,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 802,
+      "target": 800,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 806,
+      "target": 805,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 807,
+      "target": 805,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 609,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 610,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 611,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 710,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 713,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 812,
+      "target": 591,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 710,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 713,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 47,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 257,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 609,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 610,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 611,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 591,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 259,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 813,
+      "target": 267,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 815,
+      "target": 511,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 815,
+      "target": 514,
+      "type": "or",
+      "allowConcurrent": false
+    }
+  ]
+}
