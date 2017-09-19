@@ -8,6 +8,7 @@ module.exports = {
     "_": true,
     sigma: true,
     vis: true,
+    pv: true,
   },
   extends: 'airbnb-base',
   parserOptions: {
