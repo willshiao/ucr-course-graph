@@ -6,15 +6,26 @@ const Promise = require('bluebird');
 const fs = Promise.promisifyAll(require('fs'));
 
 module.exports = {
+  get subjects() {
+    return config.get('catalog.subjects').split(',').join('-') || 'all';
+  },
+
+  get filePrefix() {
+    return `${config.get('catalog.term')}_${this.subjects}`;
+  },
+
   getCatalogPath() {
-    const subjects = config.get('catalog.subjects').split(',').join('-') || 'all';
-    const filename = `${config.get('catalog.term')}_${subjects}_catalog.json`;
+    const filename = `${config.get('catalog.term')}_${this.subjects}_catalog.json`;
     return path.join(config.get('dataDir'), filename);
   },
 
   getPrereqCatalogPath() {
-    const subjects = config.get('catalog.subjects').split(',').join('-') || 'all';
-    const filename = `${config.get('catalog.term')}_${subjects}_prereqs.json`;
+    const filename = `${config.get('catalog.term')}_${this.subjects}_prereqs.json`;
+    return path.join(config.get('dataDir'), filename);
+  },
+
+  getGraphPath() {
+    const filename = `${this.filePrefix}_graph.json`;
     return path.join(config.get('dataDir'), filename);
   },
 
@@ -25,5 +36,9 @@ module.exports = {
 
   async loadCatalog() {
     return JSON.parse(await fs.readFileAsync(this.getCatalogPath()));
+  },
+
+  async loadPrereqCatalog() {
+    return JSON.parse(await fs.readFileAsync(this.getPrereqCatalogPath()));
   },
 };
