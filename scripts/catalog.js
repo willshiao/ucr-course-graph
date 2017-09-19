@@ -4,7 +4,6 @@ const config = require('config');
 const Promise = require('bluebird');
 const fs = Promise.promisifyAll(require('fs'));
 const assert = require('assert');
-const _ = require('lodash');
 
 const fileHelper = require('./lib/fileHelper');
 const authHandler = require('./lib/authHandler');
@@ -32,15 +31,13 @@ async function getCatalog(j) {
   console.log('Courses:', numCourses);
   assert.notEqual(numCourses, 0);
 
-  const numPages = Math.ceil(numCourses / 500);
-
   // Next, fetch all courses
   let fetchedCourses = [];
   const requestQueue = [];
   options.qs.pageMaxSize = 500;
 
   for(let pageOffset = 0; pageOffset <= numCourses; pageOffset += 500) {
-    requestQueue.push((async function() {
+    requestQueue.push((async () => {
       const settings = options;
       settings.qs.pageOffset = pageOffset;
       res = await rp(settings);

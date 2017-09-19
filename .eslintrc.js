@@ -11,6 +11,7 @@ module.exports = {
     "impliedStrict": false
   },
   rules: {
+    'no-loop-func': 0,
     'no-console': 0,
     'consistent-return': 0,
     'keyword-spacing': ['error', {'overrides': {
