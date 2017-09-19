@@ -1,20 +1,1079 @@
 {
-  "CS005": {
-    "id": 354315,
+  "MATH046": {
+    "id": 354617,
     "term": "201740",
     "termDesc": "Fall 2017",
-    "courseReferenceNumber": "23178",
+    "courseReferenceNumber": "23461",
+    "partOfTerm": "1",
+    "courseNumber": "046",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "010",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS",
+    "creditHours": 4,
+    "maximumEnrollment": 80,
+    "enrollment": 79,
+    "seatsAvailable": 1,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L2",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH046",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH09HB": {
+    "id": 354518,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23365",
+    "partOfTerm": "1",
+    "courseNumber": "09HB",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "FIRST-YEAR HONORS CALCULUS",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 13,
+    "seatsAvailable": 12,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH09HB",
+    "faculty": [
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "23365",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH120": {
+    "id": 348915,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16563",
+    "partOfTerm": "1",
+    "courseNumber": "120",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "OPTIMIZATION",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "enrollment": 59,
+    "seatsAvailable": 1,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH120",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16563",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16563",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH131": {
+    "id": 348918,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16566",
+    "partOfTerm": "1",
+    "courseNumber": "131",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "LINEAR ALGEBRA I",
+    "creditHours": 4,
+    "maximumEnrollment": 40,
+    "enrollment": 32,
+    "seatsAvailable": 8,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH131",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16566",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16566",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH133": {
+    "id": 348921,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16570",
+    "partOfTerm": "1",
+    "courseNumber": "133",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "GEOMETRY",
+    "creditHours": 4,
+    "maximumEnrollment": 57,
+    "enrollment": 55,
+    "seatsAvailable": 2,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH133",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16570",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16570",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH135A": {
+    "id": 348924,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16573",
+    "partOfTerm": "1",
+    "courseNumber": "135A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "NUMERICAL ANALYSIS",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "enrollment": 59,
+    "seatsAvailable": 1,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH135A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16573",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16573",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH144": {
+    "id": 348927,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16576",
+    "partOfTerm": "1",
+    "courseNumber": "144",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO SET THEORY",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "enrollment": 60,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH144",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16576",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16576",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH146A": {
+    "id": 348930,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16579",
+    "partOfTerm": "1",
+    "courseNumber": "146A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+    "creditHours": 4,
+    "maximumEnrollment": 105,
+    "enrollment": 105,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH146A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16579",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16579",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH149A": {
+    "id": 348935,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16584",
+    "partOfTerm": "1",
+    "courseNumber": "149A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "PROBABILITY AND MATHEMATICAL STATISTICS",
+    "creditHours": 4,
+    "maximumEnrollment": 100,
+    "enrollment": 100,
+    "seatsAvailable": 0,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": false,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH149A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16584",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16584",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH151A": {
+    "id": 348936,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16588",
+    "partOfTerm": "1",
+    "courseNumber": "151A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ADVANCED CALCULUS",
+    "creditHours": 4,
+    "maximumEnrollment": 39,
+    "enrollment": 30,
+    "seatsAvailable": 9,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH151A",
+    "faculty": [
+      {
+        "bannerId": "860800086",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16588",
+        "displayName": "Lam, Robert",
+        "emailAddress": "robert.lam@ucr.edu",
+        "primaryIndicator": false,
+        "term": "201740"
+      },
+      {
+        "bannerId": "861250753",
+        "category": null,
+        "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+        "courseReferenceNumber": "16588",
+        "displayName": "The Staff, .",
+        "emailAddress": null,
+        "primaryIndicator": true,
+        "term": "201740"
+      }
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH168": {
+    "id": 354631,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "23475",
+    "partOfTerm": "1",
+    "courseNumber": "168",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO MATHEMATICAL MODELING",
+    "creditHours": 4,
+    "maximumEnrollment": 35,
+    "enrollment": 27,
+    "seatsAvailable": 8,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "OR",
+    "openSection": true,
+    "linkIdentifier": "L1",
+    "isSectionLinked": true,
+    "subjectCourse": "MATH168",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH201A": {
+    "id": 348988,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16641",
+    "partOfTerm": "1",
+    "courseNumber": "201A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ALGEBRA",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 12,
+    "seatsAvailable": 13,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH201A",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH205A": {
+    "id": 348989,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16642",
+    "partOfTerm": "1",
+    "courseNumber": "205A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "TOPOLOGY",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 15,
+    "seatsAvailable": 10,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH205A",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH207A": {
+    "id": 348990,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16643",
+    "partOfTerm": "1",
+    "courseNumber": "207A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "ORDINARY DIFFERENTIAL EQUATIONS",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 6,
+    "seatsAvailable": 19,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH207A",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH209A": {
+    "id": 348991,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16644",
+    "partOfTerm": "1",
+    "courseNumber": "209A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "REAL ANALYSIS",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 12,
+    "seatsAvailable": 13,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH209A",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH210A": {
+    "id": 348992,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16645",
+    "partOfTerm": "1",
+    "courseNumber": "210A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "COMPLEX ANALYSIS",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 14,
+    "seatsAvailable": 11,
+    "waitCapacity": 0,
+    "waitCount": 0,
+    "waitAvailable": 0,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH210A",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH217": {
+    "id": 356389,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24592",
+    "partOfTerm": "1",
+    "courseNumber": "217",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "THEORY OF PROBABILITY",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 8,
+    "seatsAvailable": 17,
+    "waitCapacity": 99,
+    "waitCount": 0,
+    "waitAvailable": 99,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH217",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH224": {
+    "id": 356390,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24593",
+    "partOfTerm": "1",
+    "courseNumber": "224",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "INTRODUCTION TO HOMOLOGICAL ALGEBRA",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 11,
+    "seatsAvailable": 14,
+    "waitCapacity": 99,
+    "waitCount": 0,
+    "waitAvailable": 99,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH224",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH230": {
+    "id": 356391,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24594",
+    "partOfTerm": "1",
+    "courseNumber": "230",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "DEFORMATION THEORY",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 10,
+    "seatsAvailable": 15,
+    "waitCapacity": 99,
+    "waitCount": 0,
+    "waitAvailable": 99,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH230",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH232A": {
+    "id": 356392,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24595",
+    "partOfTerm": "1",
+    "courseNumber": "232A",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "GEOMETRY I",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 9,
+    "seatsAvailable": 16,
+    "waitCapacity": 99,
+    "waitCount": 0,
+    "waitAvailable": 99,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH232A",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH241": {
+    "id": 356393,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "24596",
+    "partOfTerm": "1",
+    "courseNumber": "241",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "MATHEMATICAL PHYSICS: CLASSICAL MECHANICS",
+    "creditHours": 4,
+    "maximumEnrollment": 25,
+    "enrollment": 12,
+    "seatsAvailable": 13,
+    "waitCapacity": 99,
+    "waitCount": 0,
+    "waitAvailable": 99,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "creditHourIndicator": null,
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH241",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "MATH302": {
+    "id": 349074,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "16747",
+    "partOfTerm": "1",
+    "courseNumber": "302",
+    "subject": "MATH",
+    "subjectDescription": "Mathematics",
+    "sequenceNumber": "001",
+    "campusDescription": "Riverside",
+    "scheduleTypeDescription": "Lecture",
+    "courseTitle": "APPRENTICE TEACHING",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "enrollment": 25,
+    "seatsAvailable": 5,
+    "waitCapacity": 99,
+    "waitCount": 0,
+    "waitAvailable": 99,
+    "crossList": null,
+    "crossListCapacity": null,
+    "crossListCount": null,
+    "crossListAvailable": null,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "creditHourIndicator": "TO",
+    "openSection": true,
+    "linkIdentifier": null,
+    "isSectionLinked": false,
+    "subjectCourse": "MATH302",
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
+  },
+  "CS005": {
+    "id": 346159,
+    "term": "201740",
+    "termDesc": "Fall 2017",
+    "courseReferenceNumber": "12992",
     "partOfTerm": "1",
     "courseNumber": "005",
     "subject": "CS",
     "subjectDescription": "Computer Science",
-    "sequenceNumber": "002",
+    "sequenceNumber": "001",
     "campusDescription": "Riverside",
     "scheduleTypeDescription": "Lecture",
     "courseTitle": "INTRODUCTION TO COMPUTER PROGRAMMING",
     "creditHours": 4,
-    "maximumEnrollment": 125,
-    "enrollment": 125,
+    "maximumEnrollment": 100,
+    "enrollment": 100,
     "seatsAvailable": 0,
     "waitCapacity": 0,
     "waitCount": 0,
@@ -30,7 +1089,14 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS005",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS006": {
     "id": 346163,
@@ -47,8 +1113,8 @@
     "courseTitle": "EFFECTIVE USE OF THE WORLD WIDE WEB",
     "creditHours": 4,
     "maximumEnrollment": 120,
-    "enrollment": 120,
-    "seatsAvailable": 0,
+    "enrollment": 117,
+    "seatsAvailable": 3,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -59,11 +1125,18 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS006",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS008": {
     "id": 346167,
@@ -80,8 +1153,8 @@
     "courseTitle": "INTRODUCTION TO COMPUTING",
     "creditHours": 4,
     "maximumEnrollment": 270,
-    "enrollment": 270,
-    "seatsAvailable": 0,
+    "enrollment": 264,
+    "seatsAvailable": 6,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -92,7 +1165,7 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS008",
@@ -107,7 +1180,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS010": {
     "id": 346188,
@@ -124,8 +1204,8 @@
     "courseTitle": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING I",
     "creditHours": 4,
     "maximumEnrollment": 90,
-    "enrollment": 83,
-    "seatsAvailable": 7,
+    "enrollment": 84,
+    "seatsAvailable": 6,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -151,7 +1231,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS011": {
     "id": 354334,
@@ -175,8 +1262,8 @@
     "waitAvailable": 0,
     "crossList": "XY",
     "crossListCapacity": 130,
-    "crossListCount": 127,
-    "crossListAvailable": 3,
+    "crossListCount": 126,
+    "crossListAvailable": 4,
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
@@ -184,7 +1271,14 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS011",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS012": {
     "id": 346201,
@@ -228,7 +1322,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS014": {
     "id": 354352,
@@ -245,8 +1346,8 @@
     "courseTitle": "INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS",
     "creditHours": 4,
     "maximumEnrollment": 120,
-    "enrollment": 92,
-    "seatsAvailable": 28,
+    "enrollment": 91,
+    "seatsAvailable": 29,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -272,7 +1373,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS061": {
     "id": 346205,
@@ -289,8 +1397,8 @@
     "courseTitle": "MACHINE ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
     "creditHours": 4,
     "maximumEnrollment": 90,
-    "enrollment": 89,
-    "seatsAvailable": 1,
+    "enrollment": 86,
+    "seatsAvailable": 4,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -316,7 +1424,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS100": {
     "id": 346212,
@@ -333,8 +1448,8 @@
     "courseTitle": "SOFTWARE CONSTRUCTION",
     "creditHours": 4,
     "maximumEnrollment": 98,
-    "enrollment": 98,
-    "seatsAvailable": 0,
+    "enrollment": 95,
+    "seatsAvailable": 3,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -345,11 +1460,18 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS100",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS111": {
     "id": 346216,
@@ -366,8 +1488,8 @@
     "courseTitle": "DISCRETE STRUCTURES",
     "creditHours": 4,
     "maximumEnrollment": 98,
-    "enrollment": 98,
-    "seatsAvailable": 0,
+    "enrollment": 96,
+    "seatsAvailable": 2,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -378,7 +1500,7 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS111",
@@ -393,7 +1515,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": false,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS120A": {
     "id": 346220,
@@ -410,15 +1539,15 @@
     "courseTitle": "LOGIC DESIGN",
     "creditHours": 5,
     "maximumEnrollment": 120,
-    "enrollment": 39,
-    "seatsAvailable": 81,
+    "enrollment": 37,
+    "seatsAvailable": 83,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
     "crossList": "DB",
     "crossListCapacity": 120,
-    "crossListCount": 62,
-    "crossListAvailable": 58,
+    "crossListCount": 58,
+    "crossListAvailable": 62,
     "creditHourHigh": 5,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
@@ -437,7 +1566,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS122A": {
     "id": 346226,
@@ -454,8 +1590,8 @@
     "courseTitle": "INTERMEDIATE EMBEDDED AND REAL-TIME SYSTEMS",
     "creditHours": 5,
     "maximumEnrollment": 78,
-    "enrollment": 78,
-    "seatsAvailable": 0,
+    "enrollment": 76,
+    "seatsAvailable": 2,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -466,11 +1602,18 @@
     "creditHourHigh": 5,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS122A",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS130": {
     "id": 346229,
@@ -514,7 +1657,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS141": {
     "id": 346232,
@@ -530,9 +1680,9 @@
     "scheduleTypeDescription": "Lecture",
     "courseTitle": "INTERMEDIATE DATA STRUCTURES AND ALGORITHMS",
     "creditHours": 4,
-    "maximumEnrollment": 75,
-    "enrollment": 75,
-    "seatsAvailable": 0,
+    "maximumEnrollment": 105,
+    "enrollment": 82,
+    "seatsAvailable": 23,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -543,7 +1693,7 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS141",
@@ -558,7 +1708,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS153": {
     "id": 352278,
@@ -574,9 +1731,9 @@
     "scheduleTypeDescription": "Lecture",
     "courseTitle": "DESIGN OF OPERATING SYSTEMS",
     "creditHours": 4,
-    "maximumEnrollment": 78,
-    "enrollment": 78,
-    "seatsAvailable": 0,
+    "maximumEnrollment": 99,
+    "enrollment": 77,
+    "seatsAvailable": 22,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -587,7 +1744,7 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS153",
@@ -602,7 +1759,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS161": {
     "id": 346236,
@@ -646,7 +1810,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS161L": {
     "id": 346238,
@@ -679,7 +1850,14 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS161L",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS164": {
     "id": 346240,
@@ -696,8 +1874,8 @@
     "courseTitle": "COMPUTER NETWORKS",
     "creditHours": 4,
     "maximumEnrollment": 51,
-    "enrollment": 46,
-    "seatsAvailable": 5,
+    "enrollment": 47,
+    "seatsAvailable": 4,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -723,7 +1901,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS165": {
     "id": 346243,
@@ -767,7 +1952,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS166": {
     "id": 352300,
@@ -784,8 +1976,8 @@
     "courseTitle": "DATABASE MANAGEMENT SYSTEMS",
     "creditHours": 4,
     "maximumEnrollment": 63,
-    "enrollment": 63,
-    "seatsAvailable": 0,
+    "enrollment": 62,
+    "seatsAvailable": 1,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -796,7 +1988,7 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS166",
@@ -811,7 +2003,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS170": {
     "id": 346246,
@@ -855,7 +2054,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS171": {
     "id": 354357,
@@ -899,7 +2105,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS180": {
     "id": 346251,
@@ -916,8 +2129,8 @@
     "courseTitle": "INTRODUCTION TO SOFTWARE ENGINEERING",
     "creditHours": 4,
     "maximumEnrollment": 70,
-    "enrollment": 70,
-    "seatsAvailable": 0,
+    "enrollment": 69,
+    "seatsAvailable": 1,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -928,7 +2141,7 @@
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
-    "openSection": false,
+    "openSection": true,
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "CS180",
@@ -943,7 +2156,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS202": {
     "id": 355113,
@@ -960,8 +2180,8 @@
     "courseTitle": "ADVANCED OPERATING SYSTEMS",
     "creditHours": 4,
     "maximumEnrollment": 50,
-    "enrollment": 21,
-    "seatsAvailable": 29,
+    "enrollment": 25,
+    "seatsAvailable": 25,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -987,7 +2207,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS203": {
     "id": 355135,
@@ -1004,8 +2231,8 @@
     "courseTitle": "ADVANCED COMPUTER ARCHITECTURE",
     "creditHours": 4,
     "maximumEnrollment": 50,
-    "enrollment": 30,
-    "seatsAvailable": 20,
+    "enrollment": 32,
+    "seatsAvailable": 18,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1031,7 +2258,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS204": {
     "id": 355139,
@@ -1048,8 +2282,8 @@
     "courseTitle": "ADVANCED COMPUTER NETWORKS",
     "creditHours": 4,
     "maximumEnrollment": 36,
-    "enrollment": 4,
-    "seatsAvailable": 32,
+    "enrollment": 10,
+    "seatsAvailable": 26,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1075,7 +2309,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS211": {
     "id": 352912,
@@ -1092,8 +2333,8 @@
     "courseTitle": "HIGH PERFORMANCE COMPUTING",
     "creditHours": 4,
     "maximumEnrollment": 60,
-    "enrollment": 39,
-    "seatsAvailable": 21,
+    "enrollment": 42,
+    "seatsAvailable": 18,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1119,7 +2360,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS217": {
     "id": 367449,
@@ -1136,8 +2384,8 @@
     "courseTitle": "GPU ARCHITECTURE AND PARALLEL PROGRAMMING",
     "creditHours": 4,
     "maximumEnrollment": 55,
-    "enrollment": 32,
-    "seatsAvailable": 23,
+    "enrollment": 31,
+    "seatsAvailable": 24,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1163,7 +2411,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS218": {
     "id": 346258,
@@ -1180,8 +2435,8 @@
     "courseTitle": "DESIGN AND ANALYSIS OF ALGORITHMS",
     "creditHours": 4,
     "maximumEnrollment": 60,
-    "enrollment": 19,
-    "seatsAvailable": 41,
+    "enrollment": 21,
+    "seatsAvailable": 39,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1207,7 +2462,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS220": {
     "id": 355143,
@@ -1224,8 +2486,8 @@
     "courseTitle": "SYNTHESIS OF DIGITAL SYSTEMS",
     "creditHours": 4,
     "maximumEnrollment": 50,
-    "enrollment": 8,
-    "seatsAvailable": 42,
+    "enrollment": 12,
+    "seatsAvailable": 38,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1251,7 +2513,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS235": {
     "id": 353141,
@@ -1268,8 +2537,8 @@
     "courseTitle": "DATA MINING TECHNIQUES",
     "creditHours": 4,
     "maximumEnrollment": 52,
-    "enrollment": 50,
-    "seatsAvailable": 2,
+    "enrollment": 52,
+    "seatsAvailable": 0,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1280,7 +2549,7 @@
     "creditHourHigh": null,
     "creditHourLow": 4,
     "creditHourIndicator": null,
-    "openSection": true,
+    "openSection": false,
     "linkIdentifier": null,
     "isSectionLinked": false,
     "subjectCourse": "CS235",
@@ -1295,7 +2564,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS236": {
     "id": 355157,
@@ -1312,8 +2588,8 @@
     "courseTitle": "DATABASE MANAGEMENT SYSTEMS",
     "creditHours": 4,
     "maximumEnrollment": 53,
-    "enrollment": 11,
-    "seatsAvailable": 42,
+    "enrollment": 13,
+    "seatsAvailable": 40,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1339,7 +2615,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS240": {
     "id": 352111,
@@ -1356,8 +2639,8 @@
     "courseTitle": "NETWORK ROUTING",
     "creditHours": 4,
     "maximumEnrollment": 36,
-    "enrollment": 18,
-    "seatsAvailable": 18,
+    "enrollment": 16,
+    "seatsAvailable": 20,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1383,7 +2666,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "CS257": {
     "id": 355178,
@@ -1400,8 +2690,8 @@
     "courseTitle": "WIRELESS NETWORKS AND MOBILE COMPUTING",
     "creditHours": 4,
     "maximumEnrollment": 35,
-    "enrollment": 7,
-    "seatsAvailable": 28,
+    "enrollment": 8,
+    "seatsAvailable": 27,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1427,7 +2717,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH004": {
     "id": 348858,
@@ -1444,8 +2741,8 @@
     "courseTitle": "INTRODUCTION TO COLLEGE MATHEMATICS FOR BUSINESS AND THE SOCIAL SCIENCES",
     "creditHours": 5,
     "maximumEnrollment": 212,
-    "enrollment": 208,
-    "seatsAvailable": 4,
+    "enrollment": 209,
+    "seatsAvailable": 3,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1481,7 +2778,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH005": {
     "id": 348874,
@@ -1498,8 +2802,8 @@
     "courseTitle": "PRECALCULUS",
     "creditHours": 5,
     "maximumEnrollment": 250,
-    "enrollment": 239,
-    "seatsAvailable": 11,
+    "enrollment": 235,
+    "seatsAvailable": 15,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1535,7 +2839,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH006A": {
     "id": 351984,
@@ -1589,7 +2900,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH006B": {
     "id": 351989,
@@ -1606,8 +2924,8 @@
     "courseTitle": " INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
     "creditHours": 4,
     "maximumEnrollment": 150,
-    "enrollment": 121,
-    "seatsAvailable": 29,
+    "enrollment": 120,
+    "seatsAvailable": 30,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1643,7 +2961,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH007A": {
     "id": 354841,
@@ -1687,7 +3012,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH007B": {
     "id": 354846,
@@ -1731,7 +3063,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH009A": {
     "id": 354471,
@@ -1748,8 +3087,8 @@
     "courseTitle": "FIRST-YEAR CALCULUS",
     "creditHours": 4,
     "maximumEnrollment": 120,
-    "enrollment": 105,
-    "seatsAvailable": 15,
+    "enrollment": 104,
+    "seatsAvailable": 16,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1775,7 +3114,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH009B": {
     "id": 354492,
@@ -1819,7 +3165,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH009C": {
     "id": 348889,
@@ -1836,8 +3189,8 @@
     "courseTitle": "FIRST-YEAR CALCULUS",
     "creditHours": 4,
     "maximumEnrollment": 125,
-    "enrollment": 123,
-    "seatsAvailable": 2,
+    "enrollment": 120,
+    "seatsAvailable": 5,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -1873,7 +3226,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH010A": {
     "id": 354563,
@@ -1906,7 +3266,14 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "MATH010A",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH010B": {
     "id": 348906,
@@ -1960,7 +3327,14 @@
         "primaryIndicator": true,
         "term": "201740"
       }
-    ]
+    ],
+    "status": {
+      "select": true,
+      "sectionOpen": false,
+      "timeConflict": true,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH011": {
     "id": 354575,
@@ -1977,15 +3351,15 @@
     "courseTitle": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
     "creditHours": 4,
     "maximumEnrollment": 130,
-    "enrollment": 33,
-    "seatsAvailable": 97,
+    "enrollment": 32,
+    "seatsAvailable": 98,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
     "crossList": "XY",
     "crossListCapacity": 130,
-    "crossListCount": 127,
-    "crossListAvailable": 3,
+    "crossListCount": 126,
+    "crossListAvailable": 4,
     "creditHourHigh": 4,
     "creditHourLow": 0,
     "creditHourIndicator": "OR",
@@ -1993,7 +3367,14 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "MATH011",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH022": {
     "id": 354582,
@@ -2010,8 +3391,8 @@
     "courseTitle": "CALCULUS FOR BUSINESS",
     "creditHours": 5,
     "maximumEnrollment": 205,
-    "enrollment": 202,
-    "seatsAvailable": 3,
+    "enrollment": 198,
+    "seatsAvailable": 7,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -2026,7 +3407,14 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "MATH022",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": true,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   },
   "MATH031": {
     "id": 354613,
@@ -2043,8 +3431,8 @@
     "courseTitle": "APPLIED LINEAR ALGEBRA",
     "creditHours": 5,
     "maximumEnrollment": 130,
-    "enrollment": 117,
-    "seatsAvailable": 13,
+    "enrollment": 119,
+    "seatsAvailable": 11,
     "waitCapacity": 0,
     "waitCount": 0,
     "waitAvailable": 0,
@@ -2059,39 +3447,13 @@
     "linkIdentifier": "L1",
     "isSectionLinked": true,
     "subjectCourse": "MATH031",
-    "faculty": []
-  },
-  "MATH046": {
-    "id": 354616,
-    "term": "201740",
-    "termDesc": "Fall 2017",
-    "courseReferenceNumber": "23460",
-    "partOfTerm": "1",
-    "courseNumber": "046",
-    "subject": "MATH",
-    "subjectDescription": "Mathematics",
-    "sequenceNumber": "001",
-    "campusDescription": "Riverside",
-    "scheduleTypeDescription": "Lecture",
-    "courseTitle": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS",
-    "creditHours": 4,
-    "maximumEnrollment": 80,
-    "enrollment": 80,
-    "seatsAvailable": 0,
-    "waitCapacity": 0,
-    "waitCount": 0,
-    "waitAvailable": 0,
-    "crossList": null,
-    "crossListCapacity": null,
-    "crossListCount": null,
-    "crossListAvailable": null,
-    "creditHourHigh": 4,
-    "creditHourLow": 0,
-    "creditHourIndicator": "OR",
-    "openSection": false,
-    "linkIdentifier": "L1",
-    "isSectionLinked": true,
-    "subjectCourse": "MATH046",
-    "faculty": []
+    "faculty": [],
+    "status": {
+      "select": false,
+      "sectionOpen": true,
+      "timeConflict": false,
+      "restricted": true,
+      "sectionStatus": true
+    }
   }
 }

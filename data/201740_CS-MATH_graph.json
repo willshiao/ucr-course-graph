@@ -1,0 +1,704 @@
+{
+  "nodes": [
+    {
+      "nodeName": "MATH046",
+      "fullName": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH09HB",
+      "fullName": "FIRST-YEAR HONORS CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH120",
+      "fullName": "OPTIMIZATION",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH131",
+      "fullName": "LINEAR ALGEBRA I",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH133",
+      "fullName": "GEOMETRY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH135A",
+      "fullName": "NUMERICAL ANALYSIS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH144",
+      "fullName": "INTRODUCTION TO SET THEORY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH146A",
+      "fullName": "ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH149A",
+      "fullName": "PROBABILITY AND MATHEMATICAL STATISTICS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH151A",
+      "fullName": "ADVANCED CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH168",
+      "fullName": "INTRODUCTION TO MATHEMATICAL MODELING",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH201A",
+      "fullName": "ALGEBRA",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH205A",
+      "fullName": "TOPOLOGY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH207A",
+      "fullName": "ORDINARY DIFFERENTIAL EQUATIONS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH209A",
+      "fullName": "REAL ANALYSIS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH210A",
+      "fullName": "COMPLEX ANALYSIS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH217",
+      "fullName": "THEORY OF PROBABILITY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH224",
+      "fullName": "INTRODUCTION TO HOMOLOGICAL ALGEBRA",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH230",
+      "fullName": "DEFORMATION THEORY",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH232A",
+      "fullName": "GEOMETRY I",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH241",
+      "fullName": "MATHEMATICAL PHYSICS: CLASSICAL MECHANICS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH302",
+      "fullName": "APPRENTICE TEACHING",
+      "group": 65
+    },
+    {
+      "nodeName": "CS005",
+      "fullName": "INTRODUCTION TO COMPUTER PROGRAMMING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS006",
+      "fullName": "EFFECTIVE USE OF THE WORLD WIDE WEB",
+      "group": 23
+    },
+    {
+      "nodeName": "CS008",
+      "fullName": "INTRODUCTION TO COMPUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS010",
+      "fullName": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING I",
+      "group": 23
+    },
+    {
+      "nodeName": "CS011",
+      "fullName": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
+      "group": 23
+    },
+    {
+      "nodeName": "CS012",
+      "fullName": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING II",
+      "group": 23
+    },
+    {
+      "nodeName": "CS014",
+      "fullName": "INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS061",
+      "fullName": "MACHINE ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS100",
+      "fullName": "SOFTWARE CONSTRUCTION",
+      "group": 23
+    },
+    {
+      "nodeName": "CS111",
+      "fullName": "DISCRETE STRUCTURES",
+      "group": 23
+    },
+    {
+      "nodeName": "CS120A",
+      "fullName": "LOGIC DESIGN",
+      "group": 23
+    },
+    {
+      "nodeName": "CS122A",
+      "fullName": "INTERMEDIATE EMBEDDED AND REAL-TIME SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS130",
+      "fullName": "COMPUTER GRAPHICS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS141",
+      "fullName": "INTERMEDIATE DATA STRUCTURES AND ALGORITHMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS153",
+      "fullName": "DESIGN OF OPERATING SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS161",
+      "fullName": "DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS161L",
+      "fullName": "LABORATORY IN DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS164",
+      "fullName": "COMPUTER NETWORKS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS165",
+      "fullName": "COMPUTER SECURITY",
+      "group": 23
+    },
+    {
+      "nodeName": "CS166",
+      "fullName": "DATABASE MANAGEMENT SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS170",
+      "fullName": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+      "group": 23
+    },
+    {
+      "nodeName": "CS171",
+      "fullName": "INTRODUCTION TO MACHINE LEARNING AND DATA MINING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS180",
+      "fullName": "INTRODUCTION TO SOFTWARE ENGINEERING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS202",
+      "fullName": "ADVANCED OPERATING SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS203",
+      "fullName": "ADVANCED COMPUTER ARCHITECTURE",
+      "group": 23
+    },
+    {
+      "nodeName": "CS204",
+      "fullName": "ADVANCED COMPUTER NETWORKS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS211",
+      "fullName": "HIGH PERFORMANCE COMPUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS217",
+      "fullName": "GPU ARCHITECTURE AND PARALLEL PROGRAMMING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS218",
+      "fullName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS220",
+      "fullName": "SYNTHESIS OF DIGITAL SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS235",
+      "fullName": "DATA MINING TECHNIQUES",
+      "group": 23
+    },
+    {
+      "nodeName": "CS236",
+      "fullName": "DATABASE MANAGEMENT SYSTEMS",
+      "group": 23
+    },
+    {
+      "nodeName": "CS240",
+      "fullName": "NETWORK ROUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "CS257",
+      "fullName": "WIRELESS NETWORKS AND MOBILE COMPUTING",
+      "group": 23
+    },
+    {
+      "nodeName": "MATH004",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR BUSINESS AND THE SOCIAL SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH005",
+      "fullName": "PRECALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH006A",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH006B",
+      "fullName": " INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH007A",
+      "fullName": "CALCULUS FOR LIFE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH007B",
+      "fullName": "CALCULUS FOR LIFE SCIENCES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH009A",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH009B",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH009C",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH010A",
+      "fullName": "CALCULUS OF SEVERAL VARIABLES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH010B",
+      "fullName": "CALCULUS OF SEVERAL VARIABLES",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH011",
+      "fullName": "INTRODUCTION TO DISCRETE STRUCTURES\r\n",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH022",
+      "fullName": "CALCULUS FOR BUSINESS",
+      "group": 65
+    },
+    {
+      "nodeName": "MATH031",
+      "fullName": "APPLIED LINEAR ALGEBRA",
+      "group": 65
+    }
+  ],
+  "edges": [
+    {
+      "source": 7,
+      "target": 0,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 8,
+      "target": 0,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 9,
+      "target": 0,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 10,
+      "target": 7,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 19,
+      "target": 3,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 20,
+      "target": 12,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 26,
+      "target": 25,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 30,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 31,
+      "target": 25,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 31,
+      "target": 26,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 32,
+      "target": 29,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 33,
+      "target": 27,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 34,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 35,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 35,
+      "target": 31,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 36,
+      "target": 29,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 36,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 36,
+      "target": 31,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 37,
+      "target": 32,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 38,
+      "target": 37,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 38,
+      "target": 32,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 39,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 39,
+      "target": 31,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 39,
+      "target": 36,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 40,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 40,
+      "target": 36,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 41,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 41,
+      "target": 31,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 42,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 42,
+      "target": 31,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 43,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 44,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 45,
+      "target": 36,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 46,
+      "target": 37,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 52,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 52,
+      "target": 41,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 59,
+      "target": 58,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 63,
+      "target": 60,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 63,
+      "target": 62,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 64,
+      "target": 63,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 64,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 65,
+      "target": 61,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 65,
+      "target": 63,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 65,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 66,
+      "target": 65,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 25,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 60,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 62,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 61,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 63,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 69,
+      "target": 25,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 69,
+      "target": 60,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 69,
+      "target": 62,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 69,
+      "target": 61,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 69,
+      "target": 63,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 69,
+      "target": 1,
+      "type": "or",
+      "allowConcurrent": false
+    }
+  ]
+}
