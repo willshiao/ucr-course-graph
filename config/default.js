@@ -29,7 +29,7 @@ module.exports = {
       prereqs: 'https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/searchResults/getSectionPrerequisites',
     },
     term: 201740,
-    subjects: 'CS,MATH', // Comma-seperated. Can be blank.
+    subjects: '', // Comma-seperated. Can be blank.
     replaceUnknown: false, // Replace unknown classes with 'UNKNOWN', not yet implemented
   },
 
