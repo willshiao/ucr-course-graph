@@ -16,11 +16,11 @@ function createNode(data, subjects) {
 }
 
 function createEdge(locMap, source, data, type) {
-  console.log('Created edge:', source, '->', data.course);
   if(!(data.course in locMap)) {
-    console.log('Skipped edge');
+    console.log('[!] Skipped edge:', source, '->', data.course);
     return null;
   }
+  console.log('Created edge:', source, '->', data.course);
   return {
     source: locMap[source],
     target: locMap[data.course],
@@ -35,9 +35,14 @@ function createGraph(catalog, subjects) {
     nodes: [],
     edges: [],
   };
+  _.forEach(catalog, (course, index) => {
+    locMap[course.subjectCourse] = index;
+  })
 
   _.forEach(catalog, (course, index) => {
-    output.nodes.push(createNode(course, subjects));
+    const node = createNode(course, subjects);
+    node.index = index;
+    output.nodes.push(node);
     locMap[course.subjectCourse] = index;
     if(!course.prereqs || !course.prereqs.and) return;
 

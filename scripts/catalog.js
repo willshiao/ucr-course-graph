@@ -12,15 +12,18 @@ const rp = require('./lib/request');
 
 async function getCatalog(j) {
   const jar = j || await authHandler.getJar();
+  const qs = {
+    txt_term: config.get('catalog.term'),
+    pageOffset: 0,
+    pageMaxSize: 1,
+  }
+  if (config.get('catalog.subjects').length > 0) {
+    qs.txt_subject = config.get('catalog.subjects')
+  }
 
   const options = {
     uri: config.get('catalog.urls.search'),
-    qs: {
-      txt_term: config.get('catalog.term'),
-      txt_subject: config.get('catalog.subjects'),
-      pageOffset: 0,
-      pageMaxSize: 1,
-    },
+    qs,
     jar,
     json: true,
   };

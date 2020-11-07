@@ -10,8 +10,8 @@ const fileHelper = require('./lib/fileHelper');
 const rp = require('./lib/request');
 
 
-const preReqRegex = /Course or Test: (.+)\s+Minimum Grade of (.{2})\s+(.+)/;
-const subjectRegex = /(.+) (\d{1,4}.+)/;
+const preReqRegex = /Course or Test: (.+)\s+Minimum Grade of (.{1,2})\s+(.+)/;
+const subjectRegex = /(.+?) (\d{1,4}.+)/;
 
 
 async function getPrerequisites(crn, subjects) {
@@ -56,6 +56,10 @@ async function getPrerequisites(crn, subjects) {
     reqData.forEach((item) => {
       let req = item;
       let isAnd = true;
+      if (req.includes('Score for Prereq') ||
+        req.includes('Placement Score') ||
+        req.includes('Language: ') ||
+        req.includes('004/006A')) return null;
 
       req = req.slice(2).trim();
       if(req.startsWith('and')) {
@@ -67,6 +71,7 @@ async function getPrerequisites(crn, subjects) {
         isAnd = firstIsAnd;
       }
 
+      // console.log('Req:', req)
       const match = preReqRegex.exec(req);
       const subMatch = subjectRegex.exec(match[1]);
       const subCode = (_.find(subjects, sub => sub.description === subMatch[1])
@@ -107,8 +112,17 @@ async function main() {
   await fs.writeFileAsync(fileHelper.getPrereqCatalogPath(), prereqCatalog);
 }
 
+async function testPrereq() {
+  const subjects = await fileHelper.loadSubjects();
+  // console.log(getPrerequisites('49658', subjects))
+  // console.log(getPrerequisites('39009', subjects))
+  // console.log(getPrerequisites('32034', subjects))
+  // console.log(getPrerequisites('41906', subjects))
+}
+
 if(require.main === module) { // Was run directly
   main();
+  // testPrereq()
 } else { // Required as module
   module.exports = {
     getPrerequisites,

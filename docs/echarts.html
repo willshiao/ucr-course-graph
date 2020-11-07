@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Charts Graph</title>
+  <style>
+    * {
+      box-sizing:border-box;
+    }
+    #panel {
+      width: 20%;
+      height: 100%;
+      float: right;
+      z-index: 1000;
+    }
+    #graph {
+      height: 100%;
+      width: 80%;
+      float: left;
+      border-right: 1px solid black;
+    }
+    #container {
+      height: 100%;
+      width: 100%;
+    }
+    body {
+      height: 100%;
+      overflow-y: hidden;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <div id="graph"></div>
+    <div id="panel">
+      <form action="#" id="panel-form">
+        <br>
+        <div>
+          <span>Subjects: </span> <input type="text" id="to-exclude">
+        </div>
+        <div>
+          <span>Layout: </span> <select name="layout" id="layout">
+            <option value="circular" selected>Circular</option>
+            <option value="force">Force</option>
+          </select>
+        </div>
+        <button type="submit">Update Graph</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+  <script src="/lib/echarts.min.js"></script>
+  <script type="text/javascript" src="/echarts-graph.js"></script>
+</body>
+</html>

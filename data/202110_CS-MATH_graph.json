@@ -1,0 +1,1284 @@
+{
+  "nodes": [
+    {
+      "nodeName": "MATH132",
+      "fullName": "LINEAR ALGEBRA II",
+      "group": 65,
+      "index": 0
+    },
+    {
+      "nodeName": "MATH135B",
+      "fullName": "INRODUCTION TO NUMERICAL ANALYSIS",
+      "group": 65,
+      "index": 1
+    },
+    {
+      "nodeName": "MATH136",
+      "fullName": "INTRODUCTION TO THE THEORY OF NUMBERS",
+      "group": 65,
+      "index": 2
+    },
+    {
+      "nodeName": "MATH138A",
+      "fullName": "INTRODUCTION TO DIFFERENTIAL GEOMETRY",
+      "group": 65,
+      "index": 3
+    },
+    {
+      "nodeName": "MATH140",
+      "fullName": "POLYNOMIALS AND NUMBER SYSTEMS",
+      "group": 65,
+      "index": 4
+    },
+    {
+      "nodeName": "MATH144",
+      "fullName": "INTRODUCTION TO SET THEORY",
+      "group": 65,
+      "index": 5
+    },
+    {
+      "nodeName": "MATH145A",
+      "fullName": "INTRODUCTION TO TOPOLOGY",
+      "group": 65,
+      "index": 6
+    },
+    {
+      "nodeName": "MATH146B",
+      "fullName": "ORDINARY AND PARTIAL DIFFERENTIAL EQUATIONS",
+      "group": 65,
+      "index": 7
+    },
+    {
+      "nodeName": "MATH147",
+      "fullName": "INTRODUCTION TO FOURIER ANALYSIS AND ITS APPLICATIONS",
+      "group": 65,
+      "index": 8
+    },
+    {
+      "nodeName": "MATH149A",
+      "fullName": "PROBABILITY AND MATHEMATICAL STATISTICS",
+      "group": 65,
+      "index": 9
+    },
+    {
+      "nodeName": "MATH149B",
+      "fullName": "PROBABILITY AND MATHEMATICAL STATISTICS",
+      "group": 65,
+      "index": 10
+    },
+    {
+      "nodeName": "MATH150A",
+      "fullName": "INTERMEDIATE ANALYSIS",
+      "group": 65,
+      "index": 11
+    },
+    {
+      "nodeName": "MATH151B",
+      "fullName": "ADVANCED CALCULUS",
+      "group": 65,
+      "index": 12
+    },
+    {
+      "nodeName": "MATH165A",
+      "fullName": "INTRODUCTION TO COMPLEX VARIABLES",
+      "group": 65,
+      "index": 13
+    },
+    {
+      "nodeName": "MATH168",
+      "fullName": "INTRODUCTION TO MATHEMATICAL MODELING",
+      "group": 65,
+      "index": 14
+    },
+    {
+      "nodeName": "MATH171",
+      "fullName": "INTRODUCTION TO MODERN ALGEBRA",
+      "group": 65,
+      "index": 15
+    },
+    {
+      "nodeName": "MATH201B",
+      "fullName": "ALGEBRA",
+      "group": 65,
+      "index": 16
+    },
+    {
+      "nodeName": "MATH205B",
+      "fullName": "ALGEBRAIC TOPOLOGY",
+      "group": 65,
+      "index": 17
+    },
+    {
+      "nodeName": "MATH206B",
+      "fullName": "NUMERICAL ANALYSIS",
+      "group": 65,
+      "index": 18
+    },
+    {
+      "nodeName": "MATH207B",
+      "fullName": "PARTIAL DIFFERENTIAL EQUATIONS I",
+      "group": 65,
+      "index": 19
+    },
+    {
+      "nodeName": "MATH209B",
+      "fullName": "REAL ANALYSIS",
+      "group": 65,
+      "index": 20
+    },
+    {
+      "nodeName": "MATH210B",
+      "fullName": "COMPLEX ANALYSIS",
+      "group": 65,
+      "index": 21
+    },
+    {
+      "nodeName": "MATH225",
+      "fullName": "COMMUTATIVE ALGEBRA",
+      "group": 65,
+      "index": 22
+    },
+    {
+      "nodeName": "MATH401",
+      "fullName": "PROFESSIONAL DEVELOPMENT IN MATHEMATICS",
+      "group": 65,
+      "index": 23
+    },
+    {
+      "nodeName": "CS005",
+      "fullName": "INTRODUCTION TO COMPUTER PROGRAMMING",
+      "group": 23,
+      "index": 24
+    },
+    {
+      "nodeName": "CS006",
+      "fullName": "EFFECTIVE USE OF THE WORLD WIDE WEB",
+      "group": 23,
+      "index": 25
+    },
+    {
+      "nodeName": "CS008",
+      "fullName": "INTRODUCTION TO COMPUTING",
+      "group": 23,
+      "index": 26
+    },
+    {
+      "nodeName": "CS009P",
+      "fullName": "INTRODUCTION TO PROGRAMMING",
+      "group": 23,
+      "index": 27
+    },
+    {
+      "nodeName": "CS010A",
+      "fullName": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING I",
+      "group": 23,
+      "index": 28
+    },
+    {
+      "nodeName": "CS010B",
+      "fullName": "INTRODUCTION TO COMPUTER SCIENCE FOR SCIENCE, MATHEMATICS, AND ENGINEERING II",
+      "group": 23,
+      "index": 29
+    },
+    {
+      "nodeName": "CS010C",
+      "fullName": "INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS",
+      "group": 23,
+      "index": 30
+    },
+    {
+      "nodeName": "CS011",
+      "fullName": "INTRODUCTION TO DISCRETE STRUCTURES",
+      "group": 23,
+      "index": 31
+    },
+    {
+      "nodeName": "CS061",
+      "fullName": "MACHINE ORGANIZATION AND ASSEMBLY LANGUAGE PROGRAMMING",
+      "group": 23,
+      "index": 32
+    },
+    {
+      "nodeName": "CS100",
+      "fullName": "SOFTWARE CONSTRUCTION",
+      "group": 23,
+      "index": 33
+    },
+    {
+      "nodeName": "CS105",
+      "fullName": "DATA ANALYSIS METHODS",
+      "group": 23,
+      "index": 34
+    },
+    {
+      "nodeName": "CS111",
+      "fullName": "DISCRETE STRUCTURES",
+      "group": 23,
+      "index": 35
+    },
+    {
+      "nodeName": "CS120A",
+      "fullName": "LOGIC DESIGN",
+      "group": 23,
+      "index": 36
+    },
+    {
+      "nodeName": "CS120B",
+      "fullName": "INTRODUCTION TO EMBEDDED SYSTEMS",
+      "group": 23,
+      "index": 37
+    },
+    {
+      "nodeName": "CS130",
+      "fullName": "COMPUTER GRAPHICS",
+      "group": 23,
+      "index": 38
+    },
+    {
+      "nodeName": "CS135",
+      "fullName": "VIRTUAL REALITY",
+      "group": 23,
+      "index": 39
+    },
+    {
+      "nodeName": "CS141",
+      "fullName": "INTERMEDIATE DATA STRUCTURES AND ALGORITHMS",
+      "group": 23,
+      "index": 40
+    },
+    {
+      "nodeName": "CS142",
+      "fullName": "ALGORITHM ENGINEERING",
+      "group": 23,
+      "index": 41
+    },
+    {
+      "nodeName": "CS150",
+      "fullName": "AUTOMATA AND FORMAL LANGUAGES",
+      "group": 23,
+      "index": 42
+    },
+    {
+      "nodeName": "CS152",
+      "fullName": "COMPILER DESIGN",
+      "group": 23,
+      "index": 43
+    },
+    {
+      "nodeName": "CS153",
+      "fullName": "DESIGN OF OPERATING SYSTEMS",
+      "group": 23,
+      "index": 44
+    },
+    {
+      "nodeName": "CS160",
+      "fullName": "CONCURRENT PROGRAMMING AND PARALLEL SYSTEMS",
+      "group": 23,
+      "index": 45
+    },
+    {
+      "nodeName": "CS161",
+      "fullName": "DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+      "group": 23,
+      "index": 46
+    },
+    {
+      "nodeName": "CS161L",
+      "fullName": "LABORATORY IN DESIGN AND ARCHITECTURE OF COMPUTER SYSTEMS",
+      "group": 23,
+      "index": 47
+    },
+    {
+      "nodeName": "CS165",
+      "fullName": "COMPUTER SECURITY",
+      "group": 23,
+      "index": 48
+    },
+    {
+      "nodeName": "CS166",
+      "fullName": "DATABASE MANAGEMENT SYSTEMS",
+      "group": 23,
+      "index": 49
+    },
+    {
+      "nodeName": "CS168",
+      "fullName": "INTRODUCTION TO VERY LARGE SCALE INTEGRATION (VLSI) DESIGN",
+      "group": 23,
+      "index": 50
+    },
+    {
+      "nodeName": "CS170",
+      "fullName": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+      "group": 23,
+      "index": 51
+    },
+    {
+      "nodeName": "CS171",
+      "fullName": "INTRODUCTION TO MACHINE LEARNING AND DATA MINING",
+      "group": 23,
+      "index": 52
+    },
+    {
+      "nodeName": "CS178B",
+      "fullName": "PROJECT SEQUENCE IN COMPUTER SCIENCE AND ENGINEERING",
+      "group": 23,
+      "index": 53
+    },
+    {
+      "nodeName": "CS181",
+      "fullName": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+      "group": 23,
+      "index": 54
+    },
+    {
+      "nodeName": "CS201",
+      "fullName": "COMPILER CONSTRUCTION",
+      "group": 23,
+      "index": 55
+    },
+    {
+      "nodeName": "CS202",
+      "fullName": "ADVANCED OPERATING SYSTEMS",
+      "group": 23,
+      "index": 56
+    },
+    {
+      "nodeName": "CS203",
+      "fullName": "ADVANCED COMPUTER ARCHITECTURE",
+      "group": 23,
+      "index": 57
+    },
+    {
+      "nodeName": "CS208",
+      "fullName": "CLOUD COMPUTING AND CLOUD NETWORKING",
+      "group": 23,
+      "index": 58
+    },
+    {
+      "nodeName": "CS213",
+      "fullName": "MULTIPROCESSOR ARCHITECTURE AND PROGRAMMING",
+      "group": 23,
+      "index": 59
+    },
+    {
+      "nodeName": "CS215",
+      "fullName": "THEORY OF COMPUTATION",
+      "group": 23,
+      "index": 60
+    },
+    {
+      "nodeName": "CS216",
+      "fullName": "ADVANCED CRYPTOGRAPHY",
+      "group": 23,
+      "index": 61
+    },
+    {
+      "nodeName": "CS218",
+      "fullName": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "group": 23,
+      "index": 62
+    },
+    {
+      "nodeName": "CS224",
+      "fullName": "FUNDAMENTALS OF MACHINE LEARNING",
+      "group": 23,
+      "index": 63
+    },
+    {
+      "nodeName": "CS230",
+      "fullName": "COMPUTER GRAPHICS",
+      "group": 23,
+      "index": 64
+    },
+    {
+      "nodeName": "CS234",
+      "fullName": "COMPUTATIONAL METHODS FOR BIOMOLECULAR DATA",
+      "group": 23,
+      "index": 65
+    },
+    {
+      "nodeName": "CS242",
+      "fullName": "INFORMATION RETRIEVAL AND WEB SEARCH",
+      "group": 23,
+      "index": 66
+    },
+    {
+      "nodeName": "CS251",
+      "fullName": "REAL-TIME EMBEDDED SYSTEMS",
+      "group": 23,
+      "index": 67
+    },
+    {
+      "nodeName": "CS255",
+      "fullName": "COMPUTER SECURITY",
+      "group": 23,
+      "index": 68
+    },
+    {
+      "nodeName": "MATH004",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR BUSINESS AND THE SOCIAL SCIENCES",
+      "group": 65,
+      "index": 69
+    },
+    {
+      "nodeName": "MATH005",
+      "fullName": "PRECALCULUS",
+      "group": 65,
+      "index": 70
+    },
+    {
+      "nodeName": "MATH006A",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+      "group": 65,
+      "index": 71
+    },
+    {
+      "nodeName": "MATH006B",
+      "fullName": "INTRODUCTION TO COLLEGE MATHEMATICS FOR THE SCIENCES",
+      "group": 65,
+      "index": 72
+    },
+    {
+      "nodeName": "MATH007A",
+      "fullName": "CALCULUS FOR LIFE SCIENCES",
+      "group": 65,
+      "index": 73
+    },
+    {
+      "nodeName": "MATH007B",
+      "fullName": "CALCULUS FOR LIFE SCIENCES",
+      "group": 65,
+      "index": 74
+    },
+    {
+      "nodeName": "MATH009A",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65,
+      "index": 75
+    },
+    {
+      "nodeName": "MATH009B",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65,
+      "index": 76
+    },
+    {
+      "nodeName": "MATH009C",
+      "fullName": "FIRST-YEAR CALCULUS",
+      "group": 65,
+      "index": 77
+    },
+    {
+      "nodeName": "MATH010A",
+      "fullName": "CALCULUS OF SEVERAL VARIABLES",
+      "group": 65,
+      "index": 78
+    },
+    {
+      "nodeName": "MATH010B",
+      "fullName": "CALCULUS OF SEVERAL VARIABLES",
+      "group": 65,
+      "index": 79
+    },
+    {
+      "nodeName": "MATH011",
+      "fullName": "INTRODUCTION TO DISCRETE STRUCTURES",
+      "group": 65,
+      "index": 80
+    },
+    {
+      "nodeName": "MATH022",
+      "fullName": "CALCULUS FOR BUSINESS",
+      "group": 65,
+      "index": 81
+    },
+    {
+      "nodeName": "MATH031",
+      "fullName": "APPLIED LINEAR ALGEBRA",
+      "group": 65,
+      "index": 82
+    },
+    {
+      "nodeName": "MATH046",
+      "fullName": "INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS",
+      "group": 65,
+      "index": 83
+    },
+    {
+      "nodeName": "MATH121",
+      "fullName": "GAME THEORY",
+      "group": 65,
+      "index": 84
+    },
+    {
+      "nodeName": "MATH131",
+      "fullName": "LINEAR ALGEBRA I",
+      "group": 65,
+      "index": 85
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 85,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 2,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 3,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 3,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 4,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 4,
+      "target": 31,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 4,
+      "target": 80,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 5,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 8,
+      "target": 79,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 8,
+      "target": 83,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 8,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 8,
+      "target": 77,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 9,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 9,
+      "target": 79,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 9,
+      "target": 83,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 10,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 10,
+      "target": 79,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 10,
+      "target": 83,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 11,
+      "target": 79,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 11,
+      "target": 5,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 11,
+      "target": 77,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 13,
+      "target": 79,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 15,
+      "target": 85,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 15,
+      "target": 5,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 19,
+      "target": 79,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 19,
+      "target": 12,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 28,
+      "target": 75,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 28,
+      "target": 70,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 28,
+      "target": 72,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 28,
+      "target": 73,
+      "type": "or",
+      "allowConcurrent": true
+    },
+    {
+      "source": 29,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 30,
+      "target": 29,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 31,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 31,
+      "target": 75,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 31,
+      "target": 76,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 32,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 33,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 34,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 35,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 35,
+      "target": 31,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 35,
+      "target": 77,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 35,
+      "target": 80,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 36,
+      "target": 32,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 37,
+      "target": 36,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 38,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 38,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 39,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 40,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 40,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 40,
+      "target": 77,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 41,
+      "target": 33,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 41,
+      "target": 40,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 42,
+      "target": 30,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 42,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 42,
+      "target": 77,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 43,
+      "target": 32,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 43,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 43,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 43,
+      "target": 42,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 44,
+      "target": 32,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 44,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 44,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 45,
+      "target": 32,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 45,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 45,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 46,
+      "target": 36,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 47,
+      "target": 46,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 47,
+      "target": 36,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 48,
+      "target": 40,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 48,
+      "target": 44,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 49,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 49,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 50,
+      "target": 36,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 51,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 51,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 52,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 52,
+      "target": 78,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 52,
+      "target": 82,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 52,
+      "target": 37,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 54,
+      "target": 32,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 54,
+      "target": 33,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 54,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 54,
+      "target": 42,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 55,
+      "target": 43,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 56,
+      "target": 44,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 57,
+      "target": 46,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 58,
+      "target": 44,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 59,
+      "target": 57,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 60,
+      "target": 42,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 61,
+      "target": 40,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 61,
+      "target": 42,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 62,
+      "target": 40,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 63,
+      "target": 33,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 63,
+      "target": 82,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 64,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 64,
+      "target": 40,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 64,
+      "target": 62,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 64,
+      "target": 85,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 65,
+      "target": 35,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 65,
+      "target": 40,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 65,
+      "target": 62,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 66,
+      "target": 40,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 66,
+      "target": 49,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 67,
+      "target": 37,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 68,
+      "target": 44,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 68,
+      "target": 48,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 72,
+      "target": 71,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 77,
+      "target": 76,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 77,
+      "target": 74,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 78,
+      "target": 74,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 78,
+      "target": 76,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 79,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 80,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 80,
+      "target": 75,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 80,
+      "target": 76,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 82,
+      "target": 28,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 82,
+      "target": 73,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 82,
+      "target": 75,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 82,
+      "target": 74,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 82,
+      "target": 76,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 83,
+      "target": 74,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 83,
+      "target": 76,
+      "type": "or",
+      "allowConcurrent": false
+    },
+    {
+      "source": 84,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": false
+    },
+    {
+      "source": 85,
+      "target": 78,
+      "type": "and",
+      "allowConcurrent": true
+    },
+    {
+      "source": 85,
+      "target": 82,
+      "type": "and",
+      "allowConcurrent": false
+    }
+  ]
+}
