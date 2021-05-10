@@ -30,7 +30,7 @@
     "bluebird": "^3.5.0",
     "cheerio": "^1.0.0-rc.2",
     "config": "^1.26.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
     "tough-cookie": "^2.5.0"
